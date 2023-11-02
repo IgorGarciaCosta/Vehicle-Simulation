@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "VehicleSim",
+			"Path": "C:\\Users\\igoni\\OneDrive\\Documentos\\Unreal Projects\\VehicleSim\\Source\\VehicleSim.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "VehicleSimEditor",
+			"Path": "C:\\Users\\igoni\\OneDrive\\Documentos\\Unreal Projects\\VehicleSim\\Source\\VehicleSimEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

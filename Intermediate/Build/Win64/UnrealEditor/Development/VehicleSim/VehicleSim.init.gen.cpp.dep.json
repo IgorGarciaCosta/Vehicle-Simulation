@@ -1,0 +1,13 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\igoni\\onedrive\\documentos\\unreal projects\\vehiclesim\\intermediate\\build\\win64\\unrealeditor\\inc\\vehiclesim\\uht\\vehiclesim.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\igoni\\onedrive\\documentos\\unreal projects\\vehiclesim\\intermediate\\build\\win64\\vehiclesimeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\igoni\\onedrive\\documentos\\unreal projects\\vehiclesim\\intermediate\\build\\win64\\unrealeditor\\development\\vehiclesim\\definitions.vehiclesim.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

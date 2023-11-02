@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-VehicleSim.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\igoni\OneDrive\Documentos\Unreal Projects\VehicleSim\Intermediate\Build\Win64\VehicleSimEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\igoni\OneDrive\Documentos\Unreal Projects\VehicleSim\Intermediate\Build\Win64\UnrealEditor\Development\VehicleSim\VehicleSim.init.gen.cpp.obj"
+"C:\Users\igoni\OneDrive\Documentos\Unreal Projects\VehicleSim\Intermediate\Build\Win64\UnrealEditor\Development\VehicleSim\VehicleSimGameModeBase.gen.cpp.obj"
+"C:\Users\igoni\OneDrive\Documentos\Unreal Projects\VehicleSim\Intermediate\Build\Win64\UnrealEditor\Development\VehicleSim\VehicleSim.cpp.obj"
+"C:\Users\igoni\OneDrive\Documentos\Unreal Projects\VehicleSim\Intermediate\Build\Win64\UnrealEditor\Development\VehicleSim\VehicleSimGameModeBase.cpp.obj"
+"C:\Users\igoni\OneDrive\Documentos\Unreal Projects\VehicleSim\Intermediate\Build\Win64\UnrealEditor\Development\VehicleSim\Default.rc2.res"
+/OUT:"C:\Users\igoni\OneDrive\Documentos\Unreal Projects\VehicleSim\Intermediate\Build\Win64\UnrealEditor\Development\VehicleSim\UnrealEditor-VehicleSim.lib"

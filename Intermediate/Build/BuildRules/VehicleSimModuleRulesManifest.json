@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\igoni\\OneDrive\\Documentos\\Unreal Projects\\VehicleSim\\Source\\VehicleSim\\VehicleSim.Build.cs",
+		"C:\\Users\\igoni\\OneDrive\\Documentos\\Unreal Projects\\VehicleSim\\Source\\VehicleSim.Target.cs",
+		"C:\\Users\\igoni\\OneDrive\\Documentos\\Unreal Projects\\VehicleSim\\Source\\VehicleSimEditor.Target.cs"
+	],
+	"EngineVersion": "5.1.1"
+}
