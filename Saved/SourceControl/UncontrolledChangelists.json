@@ -1,0 +1,26 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/igoni/OneDrive/Documentos/Unreal Projects/VehicleSim/Content/carColor.uasset",
+				"C:/Users/igoni/OneDrive/Documentos/Unreal Projects/VehicleSim/Content/glass.uasset",
+				"C:/Users/igoni/OneDrive/Documentos/Unreal Projects/VehicleSim/Content/lampBack.uasset",
+				"C:/Users/igoni/OneDrive/Documentos/Unreal Projects/VehicleSim/Content/lampFront.uasset",
+				"C:/Users/igoni/OneDrive/Documentos/Unreal Projects/VehicleSim/Content/metal.uasset",
+				"C:/Users/igoni/OneDrive/Documentos/Unreal Projects/VehicleSim/Content/mustangBoby.uasset",
+				"C:/Users/igoni/OneDrive/Documentos/Unreal Projects/VehicleSim/Content/whel/carColor.uasset",
+				"C:/Users/igoni/OneDrive/Documentos/Unreal Projects/VehicleSim/Content/whel/glass.uasset",
+				"C:/Users/igoni/OneDrive/Documentos/Unreal Projects/VehicleSim/Content/whel/lampBack.uasset",
+				"C:/Users/igoni/OneDrive/Documentos/Unreal Projects/VehicleSim/Content/whel/lampFront.uasset",
+				"C:/Users/igoni/OneDrive/Documentos/Unreal Projects/VehicleSim/Content/whel/metal.uasset",
+				"C:/Users/igoni/OneDrive/Documentos/Unreal Projects/VehicleSim/Content/whel/rubber.uasset",
+				"C:/Users/igoni/OneDrive/Documentos/Unreal Projects/VehicleSim/Content/whel/wheel_Circle_001.uasset",
+				"C:/Users/igoni/OneDrive/Documentos/Unreal Projects/VehicleSim/Content/whel/wheel_Circle_002.uasset",
+				"C:/Users/igoni/OneDrive/Documentos/Unreal Projects/VehicleSim/Content/whel/wheel_vehicleBody.uasset"
+			]
+		}
+	]
+}
