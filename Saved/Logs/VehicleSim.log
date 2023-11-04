@@ -9587,3 +9587,334 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.11.04-17.07.54:897][127]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
 [2023.11.04-17.07.57:027][217]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
 [2023.11.04-17.08.03:419][485]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.11.04-17.10.30:562][ 50]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.04-17.10.30:678][ 50]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bps/BP_Vehicle" FILE="../../../../../../Users/igoni/OneDrive/Documentos/Unreal Projects/VehicleSim/Content/bps/BP_Vehicle.uasset" SILENT=true
+[2023.11.04-17.10.30:686][ 50]LogSavePackage: Moving output files for package: /Game/bps/BP_Vehicle
+[2023.11.04-17.10.30:686][ 50]LogSavePackage: Moving '../../../../../../Users/igoni/OneDrive/Documentos/Unreal Projects/VehicleSim/Saved/BP_Vehicle6B77E877409E0698C1BB2AB59AD05E1A.tmp' to '../../../../../../Users/igoni/OneDrive/Documentos/Unreal Projects/VehicleSim/Content/bps/BP_Vehicle.uasset'
+[2023.11.04-17.10.30:695][ 50]LogFileHelpers: InternalPromptForCheckoutAndSave took 132 ms (total: 17.5 sec)
+[2023.11.04-17.10.30:702][ 50]AssetCheck: New page: Asset Save: BP_Vehicle
+[2023.11.04-17.10.30:702][ 50]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/bps/BP_Vehicle.BP_Vehicle
+[2023.11.04-17.10.41:618][375]LogSlate: Window 'Configurações do Projeto' being destroyed
+[2023.11.04-17.10.41:621][375]LogSlate: Window 'Configurações do Projeto' being destroyed
+[2023.11.04-17.11.05:508][ 22]BlueprintLog: New page: Compilar BP_Vehicle
+[2023.11.04-17.11.05:580][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2023.11.04-17.11.30:139][819]BlueprintLog: New page: Compilar BP_Vehicle
+[2023.11.04-17.11.30:210][819]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2023.11.04-17.11.30:691][859]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.04-17.11.30:800][859]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bps/BP_Vehicle" FILE="../../../../../../Users/igoni/OneDrive/Documentos/Unreal Projects/VehicleSim/Content/bps/BP_Vehicle.uasset" SILENT=true
+[2023.11.04-17.11.30:815][859]LogSavePackage: Moving output files for package: /Game/bps/BP_Vehicle
+[2023.11.04-17.11.30:815][859]LogSavePackage: Moving '../../../../../../Users/igoni/OneDrive/Documentos/Unreal Projects/VehicleSim/Saved/BP_Vehicle2927AD4E4E72C252EAF940A0ECDFCA21.tmp' to '../../../../../../Users/igoni/OneDrive/Documentos/Unreal Projects/VehicleSim/Content/bps/BP_Vehicle.uasset'
+[2023.11.04-17.11.30:823][859]LogFileHelpers: InternalPromptForCheckoutAndSave took 132 ms (total: 17.6 sec)
+[2023.11.04-17.11.30:830][859]AssetCheck: New page: Asset Save: BP_Vehicle
+[2023.11.04-17.11.30:830][859]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/bps/BP_Vehicle.BP_Vehicle
+[2023.11.04-17.11.31:046][882]LogViewport: Scene viewport resized to 600x188, mode Windowed.
+[2023.11.04-17.11.32:180][931]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.04-17.11.32:187][931]LogContentBundle: [Container: NewMap] Generating Streaming for 0 Content Bundles.
+[2023.11.04-17.11.32:191][931]LogWorldPartition: Display: GenerateStreaming started...
+[2023.11.04-17.11.32:191][931]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.11.04-17.11.32:191][931]LogWorldPartition: Display: GetPartitionedActors took 54 us (total: 3 ms)
+[2023.11.04-17.11.32:334][931]LogWorldPartition: Display: GenerateStreaming took 143 ms (total: 7.46 sec)
+[2023.11.04-17.11.32:335][931]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.04-17.11.32:335][931]PIE: New page: Sessão de PIE : NewMap (4 de nov de 2023 11:11:32)
+[2023.11.04-17.11.32:335][931]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2023.11.04-17.11.32:349][931]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012779s)
+[2023.11.04-17.11.32:349][931]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.012805s)
+[2023.11.04-17.11.32:349][931]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.04-17.11.32:349][931]LogAIModule: Creating AISystem for world NewMap
+[2023.11.04-17.11.32:349][931]LogWorldPartition: ULevel::OnLevelLoaded(NewMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.11.04-17.11.32:350][931]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.11.04-17.11.32:350][931]LogWorldPartition: UWorldPartition::Initialize(Asset=NewMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.11.04-17.11.32:352][931]LogContentBundle: [Container: NewMap] Creating new contrainer.
+[2023.11.04-17.11.32:352][931]LogWorldPartition: Display: WorldPartition initialize took 3 ms (total: 938 ms)
+[2023.11.04-17.11.32:352][931]LogPlayLevel: PIE: World Init took: (0.004095s)
+[2023.11.04-17.11.32:388][931]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2023.11.04-17.11.32:393][931]LogAudio: Display: Creating Audio Device:                 Id: 40, Scope: Unique, Realtime: True
+[2023.11.04-17.11.32:393][931]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.04-17.11.32:393][931]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.04-17.11.32:393][931]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.04-17.11.32:393][931]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.04-17.11.32:393][931]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.04-17.11.32:393][931]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.04-17.11.32:393][931]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.04-17.11.32:393][931]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.04-17.11.32:393][931]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.04-17.11.32:394][931]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.04-17.11.32:394][931]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.04-17.11.32:396][931]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.04-17.11.32:453][931]LogAudioMixer: Display: Using Audio Hardware Device Altofalantes (Realtek(R) Audio)
+[2023.11.04-17.11.32:453][931]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.04-17.11.32:453][931]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.04-17.11.32:453][931]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.04-17.11.32:454][931]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=40
+[2023.11.04-17.11.32:454][931]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=40
+[2023.11.04-17.11.32:456][931]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=40
+[2023.11.04-17.11.32:456][931]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=40
+[2023.11.04-17.11.32:456][931]LogInit: FAudioDevice initialized.
+[2023.11.04-17.11.32:456][931]LogAudio: Display: Audio Device (ID: 40) registered with world 'NewMap'.
+[2023.11.04-17.11.32:459][931]LogLoad: Game class is 'GameModeBase'
+[2023.11.04-17.11.32:459][931]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2023.11.04-14.11.32
+[2023.11.04-17.11.32:459][931]LogWorld: Bringing up level for play took: 0.000613
+[2023.11.04-17.11.32:462][931]LogOnline: OSS: Created online subsystem instance for: :Context_147
+[2023.11.04-17.11.32:462][931]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=19822.355 Y=23439.799 Z=882.833
+[2023.11.04-17.11.32:463][931]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(41), CellsToLoad(0), CellsToUnload(0)
+[2023.11.04-17.11.32:463][931]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=19822.355 Y=23439.799 Z=882.833,P=-0.000000 Y=-92.296820 R=0.000000
+[2023.11.04-17.11.32:920][931]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/F/47/SRE2F10IBLNCEHWHDB0R5Q.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.04-17.11.32:920][931]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/E/N8/PFO7BDZ0JAA14BRARTV0S0.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.04-17.11.32:920][931]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/D/YE/SR6HPODQM7KP47H3B60IL3.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.04-17.11.32:920][931]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/D/JR/WB3NI9RNBS8ZM7NAOBCUT1.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.04-17.11.32:920][931]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/D/CY/79499WIO2JEGDOHXKAVE2Q.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.04-17.11.32:920][931]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/D/8Z/4LSU7JRUL69YYIDJGSE35W.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.04-17.11.32:920][931]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/C/Z1/5JJ1TP1XPKW9WSX7HGUMJU.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.04-17.11.32:920][931]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/C/MP/7SW071I54YKZ7WANNW9ZNF.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.04-17.11.32:920][931]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/C/7A/579A09SC2JTS2H6LSR13PL.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.04-17.11.32:920][931]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/B/QO/2LS1PO2KB0MPBU3Q10JQLS.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.04-17.11.32:920][931]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/B/MX/VD8G2R3DRQURL3L2N8FK5A.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.04-17.11.32:920][931]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/B/EO/2UN44M3CSTF66URSISACO7.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.04-17.11.32:920][931]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/B/8P/CM2NN20XZG7JOWND4OKSFF.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.04-17.11.32:920][931]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/B/1O/W74LG5Z5X560FBYOC0UL54.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.04-17.11.32:920][931]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/A/OY/ET64S8Y7B7A56RDOXEXET4.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.04-17.11.32:920][931]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/A/NH/500JBYKPF78U8D5OIH4ZTV.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.04-17.11.32:920][931]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/A/KF/0HUUB8ZWRIJMRUKUDDMH1E.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.04-17.11.32:920][931]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/A/IO/8Z6TE7XPJH0N4NGDM5G8FO.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.04-17.11.32:920][931]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/A/HQ/88P9BDP4TVKYFOZOJN3QMQ.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.04-17.11.32:920][931]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/A/97/TJ4C9PDLS1GUU3HZVA9VAW.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.04-17.11.32:920][931]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/9/XH/RE3KCKBHLMM1GG0PY3DP2X.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.04-17.11.32:920][931]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/9/TR/EQW5T4BO9JJ206FV4WNNES.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.04-17.11.32:920][931]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/9/S0/ZQAAAMNNZKH0GPXO0DBFMJ.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.04-17.11.32:920][931]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/9/R1/8BCEFBDGK0H81DULB6PL99.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.04-17.11.32:920][931]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/9/P8/B0WWH2443MBX8KNWBXHRF4.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.04-17.11.32:920][931]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/9/F0/2PBKWHHRFBG1A4L1JXPK2N.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.04-17.11.32:920][931]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/9/2R/7Y8MMR44XVULYO5P3YZL6Q.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.04-17.11.32:920][931]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/8/V0/ZL0SLSEYGYT07XDJ00EIUF.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.04-17.11.32:920][931]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/8/B3/RBYC3BLDB8MGWKK1EO1GW0.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.04-17.11.32:920][931]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/8/03/XUBA90OKAR0F82M61W3CX8.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.04-17.11.32:920][931]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/7/ZI/H9Z8XD8BJTDFP4C3J5UYO5.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.04-17.11.32:920][931]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/7/P9/5INQQWN21QET7O4P293LRP.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.04-17.11.32:920][931]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/7/OX/U1S14RGV0J3HYBLRGYLFIH.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.04-17.11.32:920][931]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/7/69/K2DUYEPPDEHF7DXTMITAO4.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.04-17.11.32:920][931]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/6/HH/WEV2UZOW80WMJE695BD7Q8.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.04-17.11.32:920][931]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/6/FM/N6HUV654J3L83XHWCME1XN.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.04-17.11.32:920][931]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/6/5X/42927YT2PIUFMXJ9TCYHNH.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.04-17.11.32:920][931]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/6/2O/DXFGF2WM4JJABUV0FET9FV.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2023.11.04-17.11.32:920][931]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/5/XG/8DSW2V35VY2X5SMHCJ0A83.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.04-17.11.32:920][931]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/5/K5/N5PQOIOOZA749OR27OS0F7.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.04-17.11.32:920][931]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/5/J7/A965JVJJK99ZV7RSG0A80Y.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.04-17.11.32:920][931]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/4/OC/ZNLH3RF59GXIC6NLPXICJV.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.04-17.11.32:920][931]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/4/6W/J14X55NXI3UVJMVVIW1NAN.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.04-17.11.32:920][931]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/4/5W/6XNNGY07XFQS1KA8BSIAGI.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.04-17.11.32:920][931]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/3/XV/FQZFA2ZLA9XBN7XWV0QIN8.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.04-17.11.32:920][931]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/3/GN/GA7D4CR7K6V687F7J61C3N.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.04-17.11.32:920][931]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/3/7K/TMNUAYLY4F5HL33COW5OC3.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.04-17.11.32:920][931]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/2/WD/GI741NDVNZBKI2A7TXX224.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.04-17.11.32:920][931]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/2/RD/GHAKQAVACU5JIZXY0Y8JB5.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.04-17.11.32:920][931]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/2/IG/Y65WPOHBQW42TNWBNMQ1L3.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.04-17.11.32:920][931]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/2/97/3V83DZXP0WILS8G17CM3NX.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.04-17.11.32:920][931]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/2/5S/LKWFWDPYQSEQSQPB66JM48.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.04-17.11.32:920][931]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/2/4C/VZIZRHQCO6B7KG8DEJKZAU.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.04-17.11.32:920][931]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/2/3Q/WL4B65TFTACMIMHM4H03A7.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.04-17.11.32:920][931]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/1/J6/P0NXNHI04JBPOHH6OHIDSK.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.04-17.11.32:920][931]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/1/FP/E0070ZPQ0510UOASJSCVAJ.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.04-17.11.32:920][931]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/1/DT/ZX3WQ173AO0DO5BNMZ4U3K.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.04-17.11.32:920][931]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/1/4E/Q1KRQ2YOUWFAZ0SNJ2S0IF.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.04-17.11.32:920][931]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/1/40/44UC22RK64JP3YG9GR8ZH4.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.04-17.11.32:920][931]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/1/3C/PEH7TW33XZKZ1EF9JBCDPX.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.04-17.11.32:920][931]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/1/0H/BMRPGXAA4ISZUWMZHYLHZI.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.04-17.11.32:920][931]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/0/QY/YUZCOR8LUXX6PIBH0Q0BO9.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.04-17.11.32:920][931]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/0/65/3U8C974D5MOQ8LAHOO4OCF.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.04-17.11.32:920][931]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/0/19/P6TW7XC9AP5UWY79STK9GK.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.04-17.11.33:084][931]LogStreaming: Display: FlushAsyncLoading(-1): 40 QueuedPackages, 0 AsyncPackages
+[2023.11.04-17.11.33:254][931]LogShaderCompilers: Display: ================================================
+[2023.11.04-17.11.33:254][931]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.11.04-17.11.33:254][931]LogShaderCompilers: Display: Total job queries 3875, among them cache hits 2308 (59.56%)
+[2023.11.04-17.11.33:254][931]LogShaderCompilers: Display: Tracking 511 distinct input hashes that result in 154 distinct outputs (30.14%)
+[2023.11.04-17.11.33:254][931]LogShaderCompilers: Display: RAM used: 3.82 MB (0.00 GB) of 1228.80 MB (1.20 GB) budget. Usage: 0.31%
+[2023.11.04-17.11.33:254][931]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.11.04-17.11.33:254][931]LogShaderCompilers: Display: Shaders Compiled: 46
+[2023.11.04-17.11.33:254][931]LogShaderCompilers: Display: Jobs assigned 46, completed 46 (100.00%)
+[2023.11.04-17.11.33:254][931]LogShaderCompilers: Display: Average time worker was idle: 18591.75 s
+[2023.11.04-17.11.33:254][931]LogShaderCompilers: Display: Time job spent in pending queue: average 0.01 s, longest 0.06 s
+[2023.11.04-17.11.33:254][931]LogShaderCompilers: Display: Job execution time: average 4.77 s, max 6.65 s
+[2023.11.04-17.11.33:254][931]LogShaderCompilers: Display: Job life time (pending + execution): average 4.78 s, max 6.70
+[2023.11.04-17.11.33:254][931]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 17.16 s
+[2023.11.04-17.11.33:254][931]LogShaderCompilers: Display: Jobs were issued in 21 batches (only local compilation was used), average 2.19 jobs/batch
+[2023.11.04-17.11.33:254][931]LogShaderCompilers: Display: Average processing rate: 2.68 jobs/sec
+[2023.11.04-17.11.33:255][931]LogShaderCompilers: Display: Total thread time: 57.79 s
+[2023.11.04-17.11.33:255][931]LogShaderCompilers: Display: Total thread preprocess time: 3.57 s
+[2023.11.04-17.11.33:255][931]LogShaderCompilers: Display: Percentage time preprocessing: 6.18%
+[2023.11.04-17.11.33:255][931]LogShaderCompilers: Display: Effective parallelization: 3.37 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.11.04-17.11.33:255][931]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.11.04-17.11.33:255][931]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    5 times, average 1.66 sec, max 4.89 sec, min 0.60 sec)
+[2023.11.04-17.11.33:255][931]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    5 times, average 1.66 sec, max 4.31 sec, min 0.65 sec)
+[2023.11.04-17.11.33:255][931]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    5 times, average 1.49 sec, max 4.18 sec, min 0.55 sec)
+[2023.11.04-17.11.33:255][931]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    2 times, average 1.36 sec, max 1.47 sec, min 1.25 sec)
+[2023.11.04-17.11.33:255][931]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    5 times, average 1.26 sec, max 4.07 sec, min 0.37 sec)
+[2023.11.04-17.11.33:255][931]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.11.04-17.11.33:255][931]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 14.34% of total time (compiled    5 times, average 1.66 sec, max 4.89 sec, min 0.60 sec)
+[2023.11.04-17.11.33:255][931]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 14.32% of total time (compiled    5 times, average 1.66 sec, max 4.31 sec, min 0.65 sec)
+[2023.11.04-17.11.33:255][931]LogShaderCompilers: Display:                                                 FLumenCardVS - 12.91% of total time (compiled    5 times, average 1.49 sec, max 4.18 sec, min 0.55 sec)
+[2023.11.04-17.11.33:255][931]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 10.86% of total time (compiled    5 times, average 1.26 sec, max 4.07 sec, min 0.37 sec)
+[2023.11.04-17.11.33:255][931]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 4.71% of total time (compiled    2 times, average 1.36 sec, max 1.47 sec, min 1.25 sec)
+[2023.11.04-17.11.33:255][931]LogShaderCompilers: Display: ================================================
+[2023.11.04-17.11.33:342][931]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(1), CellsToLoad(0), CellsToUnload(0)
+[2023.11.04-17.11.33:342][931]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=19940.000 Y=22410.000 Z=40.000,P=0.000000 Y=0.000000 R=-0.000000
+[2023.11.04-17.11.33:350][931]PIE: Servidor conectado
+[2023.11.04-17.11.33:350][931]PIE: Play in editor total start time 1,163 seconds.
+[2023.11.04-17.11.43:268][592]LogStreaming: Display: UWorld::AddToWorld: updating components for /Memory/UEDPIE_0_MainGrid_L0_X3_Y3_DL0 took (less than) 20.70 ms
+[2023.11.04-17.11.43:892][639]LogStreaming: Display: UWorld::AddToWorld: updating components for /Memory/UEDPIE_0_MainGrid_L0_X2_Y-3_DL0 took (less than) 21.06 ms
+[2023.11.04-17.11.48:824][ 11]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.04-17.11.48:825][ 11]LogWorld: BeginTearingDown for /Game/UEDPIE_0_NewMap
+[2023.11.04-17.11.48:836][ 11]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2023.11.04-17.11.48:836][ 11]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.04-17.11.48:837][ 11]LogContentBundle: [Container: NewMap] Deleting container.
+[2023.11.04-17.11.48:840][ 11]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.04-17.11.48:847][ 11]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.04-17.11.48:888][ 11]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.04-17.11.48:890][ 11]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=40
+[2023.11.04-17.11.48:892][ 11]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=40
+[2023.11.04-17.11.48:900][ 11]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.04-17.11.48:913][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2023.11.04-17.11.49:070][ 12]LogPlayLevel: Display: Destroying online subsystem :Context_147
+[2023.11.04-17.11.49:081][ 12]LogViewport: Scene viewport resized to 600x188, mode Windowed.
+[2023.11.04-17.12.16:984][521]LogSlate: Window 'Configurações do Projeto' being destroyed
+[2023.11.04-17.12.17:011][521]LogSlate: Window 'Configurações do Projeto' being destroyed
+[2023.11.04-17.12.17:907][560]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.04-17.12.17:915][560]LogContentBundle: [Container: NewMap] Generating Streaming for 0 Content Bundles.
+[2023.11.04-17.12.17:920][560]LogWorldPartition: Display: GenerateStreaming started...
+[2023.11.04-17.12.17:920][560]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.11.04-17.12.17:920][560]LogWorldPartition: Display: GetPartitionedActors took 52 us (total: 3 ms)
+[2023.11.04-17.12.18:075][560]LogWorldPartition: Display: GenerateStreaming took 154 ms (total: 7.62 sec)
+[2023.11.04-17.12.18:076][560]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.04-17.12.18:076][560]PIE: New page: Sessão de PIE : NewMap (4 de nov de 2023 11:12:18)
+[2023.11.04-17.12.18:114][560]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2023.11.04-17.12.18:127][560]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012631s)
+[2023.11.04-17.12.18:127][560]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.012675s)
+[2023.11.04-17.12.18:127][560]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.04-17.12.18:127][560]LogAIModule: Creating AISystem for world NewMap
+[2023.11.04-17.12.18:128][560]LogWorldPartition: ULevel::OnLevelLoaded(NewMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.11.04-17.12.18:128][560]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.11.04-17.12.18:128][560]LogWorldPartition: UWorldPartition::Initialize(Asset=NewMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.11.04-17.12.18:131][560]LogContentBundle: [Container: NewMap] Creating new contrainer.
+[2023.11.04-17.12.18:131][560]LogWorldPartition: Display: WorldPartition initialize took 3 ms (total: 941 ms)
+[2023.11.04-17.12.18:131][560]LogPlayLevel: PIE: World Init took: (0.004075s)
+[2023.11.04-17.12.18:167][560]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2023.11.04-17.12.18:170][560]LogAudio: Display: Creating Audio Device:                 Id: 41, Scope: Unique, Realtime: True
+[2023.11.04-17.12.18:170][560]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.04-17.12.18:170][560]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.04-17.12.18:170][560]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.04-17.12.18:170][560]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.04-17.12.18:170][560]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.04-17.12.18:170][560]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.04-17.12.18:170][560]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.04-17.12.18:171][560]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.04-17.12.18:171][560]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.04-17.12.18:171][560]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.04-17.12.18:171][560]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.04-17.12.18:173][560]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.04-17.12.18:232][560]LogAudioMixer: Display: Using Audio Hardware Device Altofalantes (Realtek(R) Audio)
+[2023.11.04-17.12.18:232][560]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.04-17.12.18:232][560]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.04-17.12.18:232][560]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.04-17.12.18:233][560]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=41
+[2023.11.04-17.12.18:233][560]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=41
+[2023.11.04-17.12.18:235][560]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=41
+[2023.11.04-17.12.18:235][560]LogInit: FAudioDevice initialized.
+[2023.11.04-17.12.18:235][560]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=41
+[2023.11.04-17.12.18:235][560]LogAudio: Display: Audio Device (ID: 41) registered with world 'NewMap'.
+[2023.11.04-17.12.18:238][560]LogLoad: Game class is 'GameModeBase'
+[2023.11.04-17.12.18:238][560]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2023.11.04-14.12.18
+[2023.11.04-17.12.18:238][560]LogWorld: Bringing up level for play took: 0.000627
+[2023.11.04-17.12.18:241][560]LogOnline: OSS: Created online subsystem instance for: :Context_148
+[2023.11.04-17.12.18:242][560]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=26826.069 Y=16334.840 Z=238.647
+[2023.11.04-17.12.18:242][560]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(38), CellsToLoad(0), CellsToUnload(0)
+[2023.11.04-17.12.18:242][560]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=26826.069 Y=16334.840 Z=238.647,P=0.000000 Y=37.768687 R=-0.000000
+[2023.11.04-17.12.18:707][560]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/F/47/SRE2F10IBLNCEHWHDB0R5Q.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.04-17.12.18:707][560]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/E/N8/PFO7BDZ0JAA14BRARTV0S0.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.04-17.12.18:707][560]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/D/YE/SR6HPODQM7KP47H3B60IL3.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.04-17.12.18:707][560]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/D/JR/WB3NI9RNBS8ZM7NAOBCUT1.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.04-17.12.18:707][560]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/D/CY/79499WIO2JEGDOHXKAVE2Q.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.04-17.12.18:707][560]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/D/8Z/4LSU7JRUL69YYIDJGSE35W.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.04-17.12.18:707][560]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/C/Z1/5JJ1TP1XPKW9WSX7HGUMJU.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.04-17.12.18:707][560]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/C/MP/7SW071I54YKZ7WANNW9ZNF.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.04-17.12.18:707][560]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/C/7A/579A09SC2JTS2H6LSR13PL.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.04-17.12.18:707][560]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/B/QO/2LS1PO2KB0MPBU3Q10JQLS.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.04-17.12.18:707][560]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/B/MX/VD8G2R3DRQURL3L2N8FK5A.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.04-17.12.18:707][560]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/B/EO/2UN44M3CSTF66URSISACO7.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.04-17.12.18:707][560]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/B/8P/CM2NN20XZG7JOWND4OKSFF.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.04-17.12.18:707][560]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/B/1O/W74LG5Z5X560FBYOC0UL54.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.04-17.12.18:707][560]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/A/OY/ET64S8Y7B7A56RDOXEXET4.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.04-17.12.18:707][560]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/A/NH/500JBYKPF78U8D5OIH4ZTV.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.04-17.12.18:708][560]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/A/KF/0HUUB8ZWRIJMRUKUDDMH1E.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.04-17.12.18:708][560]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/A/IO/8Z6TE7XPJH0N4NGDM5G8FO.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.04-17.12.18:708][560]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/A/HQ/88P9BDP4TVKYFOZOJN3QMQ.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.04-17.12.18:708][560]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/A/97/TJ4C9PDLS1GUU3HZVA9VAW.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.04-17.12.18:708][560]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/9/XH/RE3KCKBHLMM1GG0PY3DP2X.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.04-17.12.18:708][560]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/9/TR/EQW5T4BO9JJ206FV4WNNES.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.04-17.12.18:708][560]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/9/S0/ZQAAAMNNZKH0GPXO0DBFMJ.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.04-17.12.18:708][560]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/9/R1/8BCEFBDGK0H81DULB6PL99.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.04-17.12.18:708][560]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/9/P8/B0WWH2443MBX8KNWBXHRF4.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.04-17.12.18:708][560]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/9/F0/2PBKWHHRFBG1A4L1JXPK2N.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.04-17.12.18:708][560]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/9/2R/7Y8MMR44XVULYO5P3YZL6Q.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.04-17.12.18:708][560]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/8/V0/ZL0SLSEYGYT07XDJ00EIUF.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.04-17.12.18:708][560]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/8/B3/RBYC3BLDB8MGWKK1EO1GW0.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.04-17.12.18:708][560]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/8/03/XUBA90OKAR0F82M61W3CX8.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.04-17.12.18:708][560]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/7/ZI/H9Z8XD8BJTDFP4C3J5UYO5.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.04-17.12.18:708][560]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/7/P9/5INQQWN21QET7O4P293LRP.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.04-17.12.18:708][560]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/7/OX/U1S14RGV0J3HYBLRGYLFIH.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.04-17.12.18:708][560]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/7/69/K2DUYEPPDEHF7DXTMITAO4.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.04-17.12.18:708][560]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/6/HH/WEV2UZOW80WMJE695BD7Q8.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.04-17.12.18:708][560]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/6/FM/N6HUV654J3L83XHWCME1XN.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.04-17.12.18:708][560]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/6/5X/42927YT2PIUFMXJ9TCYHNH.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.04-17.12.18:708][560]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/6/2O/DXFGF2WM4JJABUV0FET9FV.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2023.11.04-17.12.18:708][560]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/5/XG/8DSW2V35VY2X5SMHCJ0A83.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.04-17.12.18:708][560]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/5/K5/N5PQOIOOZA749OR27OS0F7.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.04-17.12.18:708][560]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/5/J7/A965JVJJK99ZV7RSG0A80Y.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.04-17.12.18:708][560]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/4/OC/ZNLH3RF59GXIC6NLPXICJV.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.04-17.12.18:708][560]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/4/6W/J14X55NXI3UVJMVVIW1NAN.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.04-17.12.18:708][560]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/4/5W/6XNNGY07XFQS1KA8BSIAGI.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.04-17.12.18:708][560]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/3/XV/FQZFA2ZLA9XBN7XWV0QIN8.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.04-17.12.18:708][560]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/3/GN/GA7D4CR7K6V687F7J61C3N.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.04-17.12.18:708][560]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/3/7K/TMNUAYLY4F5HL33COW5OC3.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.04-17.12.18:708][560]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/2/WD/GI741NDVNZBKI2A7TXX224.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.04-17.12.18:708][560]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/2/RD/GHAKQAVACU5JIZXY0Y8JB5.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.04-17.12.18:708][560]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/2/IG/Y65WPOHBQW42TNWBNMQ1L3.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.04-17.12.18:708][560]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/2/97/3V83DZXP0WILS8G17CM3NX.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.04-17.12.18:708][560]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/2/5S/LKWFWDPYQSEQSQPB66JM48.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.04-17.12.18:708][560]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/2/4C/VZIZRHQCO6B7KG8DEJKZAU.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.04-17.12.18:708][560]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/2/3Q/WL4B65TFTACMIMHM4H03A7.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.04-17.12.18:708][560]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/1/J6/P0NXNHI04JBPOHH6OHIDSK.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.04-17.12.18:708][560]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/1/FP/E0070ZPQ0510UOASJSCVAJ.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.04-17.12.18:708][560]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/1/DT/ZX3WQ173AO0DO5BNMZ4U3K.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.04-17.12.18:708][560]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/1/4E/Q1KRQ2YOUWFAZ0SNJ2S0IF.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.04-17.12.18:708][560]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/1/40/44UC22RK64JP3YG9GR8ZH4.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.04-17.12.18:708][560]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/1/3C/PEH7TW33XZKZ1EF9JBCDPX.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.04-17.12.18:708][560]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/1/0H/BMRPGXAA4ISZUWMZHYLHZI.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.04-17.12.18:708][560]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/0/QY/YUZCOR8LUXX6PIBH0Q0BO9.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.04-17.12.18:708][560]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/0/65/3U8C974D5MOQ8LAHOO4OCF.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.04-17.12.18:708][560]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/0/19/P6TW7XC9AP5UWY79STK9GK.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.04-17.12.18:873][560]LogStreaming: Display: FlushAsyncLoading(-1): 37 QueuedPackages, 0 AsyncPackages
+[2023.11.04-17.12.19:111][560]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(5), CellsToLoad(0), CellsToUnload(1)
+[2023.11.04-17.12.19:111][560]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=19940.000 Y=22410.000 Z=40.000,P=0.000000 Y=0.000000 R=-0.000000
+[2023.11.04-17.12.19:145][560]PIE: Servidor conectado
+[2023.11.04-17.12.19:146][560]PIE: Play in editor total start time 1,231 seconds.
+[2023.11.04-17.12.26:088][955]LogStreaming: Display: UWorld::AddToWorld: updating components for /Memory/UEDPIE_0_MainGrid_L0_X3_Y3_DL0 took (less than) 23.47 ms
+[2023.11.04-17.12.32:547][428]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.04-17.12.32:547][428]LogWorld: BeginTearingDown for /Game/UEDPIE_0_NewMap
+[2023.11.04-17.12.32:559][428]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2023.11.04-17.12.32:559][428]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.04-17.12.32:559][428]LogContentBundle: [Container: NewMap] Deleting container.
+[2023.11.04-17.12.32:565][428]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.04-17.12.32:571][428]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.04-17.12.32:612][428]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.04-17.12.32:612][428]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=41
+[2023.11.04-17.12.32:615][428]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=41
+[2023.11.04-17.12.32:637][428]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2023.11.04-17.12.32:831][429]LogPlayLevel: Display: Destroying online subsystem :Context_148
+[2023.11.04-17.12.32:842][429]LogViewport: Scene viewport resized to 600x188, mode Windowed.
+[2023.11.04-17.12.55:598][523]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2023.11.04-17.12.56:660][523]LogSlate: Window 'Salvar Conteúdo' being destroyed
+[2023.11.04-17.12.56:668][523]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.04-17.12.56:777][523]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/6/8V/HBPGKFA5KCOKTYISU5ERK6
+[2023.11.04-17.12.56:778][523]LogSavePackage: Moving '../../../../../../Users/igoni/OneDrive/Documentos/Unreal Projects/VehicleSim/Saved/HBPGKFA5KCOKTYISU5ERK6A0BC11E643B56122277487988E8CA8F2.tmp' to '../../../../../../Users/igoni/OneDrive/Documentos/Unreal Projects/VehicleSim/Content/__ExternalActors__/NewMap/6/8V/HBPGKFA5KCOKTYISU5ERK6.uasset'
+[2023.11.04-17.12.56:789][523]LogFileHelpers: InternalPromptForCheckoutAndSave took 120 ms (total: 17.8 sec)
+[2023.11.04-17.12.56:798][523]AssetCheck: New page: Asset Save: BP_Vehicle_C_UAID_B44506948CDA29B901_1163297737
+[2023.11.04-17.12.56:798][523]LogContentValidation: Display: Validating /Game/bps/BP_Vehicle.BP_Vehicle_C /Game/NewMap.NewMap:PersistentLevel.BP_Vehicle_C_UAID_B44506948CDA29B901_1163297737
