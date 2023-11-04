@@ -9502,3 +9502,88 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.11.04-17.07.02:210][824]LogFileHelpers: InternalPromptForCheckoutAndSave took 111 ms (total: 17.1 sec)
 [2023.11.04-17.07.02:217][824]AssetCheck: New page: Asset Save: BP_Vehicle
 [2023.11.04-17.07.02:217][824]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/bps/BP_Vehicle.BP_Vehicle
+[2023.11.04-17.07.39:318][649]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2023.11.04-17.07.41:348][649]LogSlate: Window 'Delete Assets' being destroyed
+[2023.11.04-17.07.41:429][649]LogUObjectGlobals: Force Deleting 13 Package(s):
+	Asset Name: /Game/vehicle/mustangFull_vehicleBody_PhysicsAsset.mustangFull_vehicleBody_PhysicsAsset
+	Asset Type: PhysicsAsset
+	Asset Name: /Game/vehicle/mustangFull_vehicleBody_Skeleton.mustangFull_vehicleBody_Skeleton
+	Asset Type: Skeleton
+	Asset Name: /Game/vehicle/rubber.rubber
+	Asset Type: Material
+	Asset Name: /Game/vehicle/lampBack.lampBack
+	Asset Type: Material
+	Asset Name: /Game/vehicle/lampFront.lampFront
+	Asset Type: Material
+	Asset Name: /Game/vehicle/glass.glass
+	Asset Type: Material
+	Asset Name: /Game/vehicle/carColor.carColor
+	Asset Type: Material
+	Asset Name: /Game/vehicle/metal.metal
+	Asset Type: Material
+	Asset Name: /Game/vehicle/mustangFull.mustangFull_vehicleBody
+	Asset Type: SkeletalMesh
+	Asset Name: /Game/vehicle/mustangFull_UCX_vehicleBody_PhysicsAsset.mustangFull_UCX_vehicleBody_PhysicsAsset
+	Asset Type: PhysicsAsset
+[2023.11.04-17.07.42:501][649]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2023.11.04-17.07.42:550][649]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2023.11.04-17.07.42:595][649]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2023.11.04-17.07.53:151][ 77]LogContentBrowser: Attempting asset rename: newSize -> vehicle
+[2023.11.04-17.07.53:205][ 77]LogMetaData: Removing '/Game/vehicle/mustangFull_Skeleton_AnimBlueprint.mustangFull_Skeleton_AnimBlueprint:AnimGraph.AnimGraphNode_Root_0' ref from Metadata '/Game/newSize/mustangFull_Skeleton_AnimBlueprint.PackageMetaData'
+[2023.11.04-17.07.53:205][ 77]LogMetaData: Removing '/Game/vehicle/mustangFull_Skeleton_AnimBlueprint.SKEL_mustangFull_Skeleton_AnimBlueprint_C' ref from Metadata '/Game/newSize/mustangFull_Skeleton_AnimBlueprint.PackageMetaData'
+[2023.11.04-17.07.53:205][ 77]LogMetaData: Removing '/Game/vehicle/mustangFull_Skeleton_AnimBlueprint.mustangFull_Skeleton_AnimBlueprint_C' ref from Metadata '/Game/newSize/mustangFull_Skeleton_AnimBlueprint.PackageMetaData'
+[2023.11.04-17.07.53:205][ 77]LogMetaData: Removing '/Game/vehicle/mustangFull_Skeleton_AnimBlueprint.mustangFull_Skeleton_AnimBlueprint:EventGraph.K2Node_Event_0' ref from Metadata '/Game/newSize/mustangFull_Skeleton_AnimBlueprint.PackageMetaData'
+[2023.11.04-17.07.53:205][ 77]LogMetaData: Removing '/Game/vehicle/mustangFull_Skeleton_AnimBlueprint.mustangFull_Skeleton_AnimBlueprint:EventGraph.K2Node_CallFunction_0' ref from Metadata '/Game/newSize/mustangFull_Skeleton_AnimBlueprint.PackageMetaData'
+[2023.11.04-17.07.53:205][ 77]LogMetaData: Removing '/Game/vehicle/mustangFull_Skeleton_AnimBlueprint.SKEL_mustangFull_Skeleton_AnimBlueprint_C:BlueprintUpdateAnimation' ref from Metadata '/Game/newSize/mustangFull_Skeleton_AnimBlueprint.PackageMetaData'
+[2023.11.04-17.07.53:205][ 77]LogMetaData: Removing '/Game/vehicle/mustangFull_Skeleton_AnimBlueprint.SKEL_mustangFull_Skeleton_AnimBlueprint_C:AnimGraph' ref from Metadata '/Game/newSize/mustangFull_Skeleton_AnimBlueprint.PackageMetaData'
+[2023.11.04-17.07.53:205][ 77]LogMetaData: Removing '/Game/vehicle/mustangFull_Skeleton_AnimBlueprint.mustangFull_Skeleton_AnimBlueprint_C:AnimGraph' ref from Metadata '/Game/newSize/mustangFull_Skeleton_AnimBlueprint.PackageMetaData'
+[2023.11.04-17.07.53:214][ 77]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.04-17.07.53:313][ 77]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bps/BP_Vehicle" FILE="../../../../../../Users/igoni/OneDrive/Documentos/Unreal Projects/VehicleSim/Content/bps/BP_Vehicle.uasset" SILENT=true
+[2023.11.04-17.07.53:321][ 77]LogSavePackage: Moving output files for package: /Game/bps/BP_Vehicle
+[2023.11.04-17.07.53:321][ 77]LogSavePackage: Moving '../../../../../../Users/igoni/OneDrive/Documentos/Unreal Projects/VehicleSim/Saved/BP_Vehicle655E61D54985395A79BAB783A5756366.tmp' to '../../../../../../Users/igoni/OneDrive/Documentos/Unreal Projects/VehicleSim/Content/bps/BP_Vehicle.uasset'
+[2023.11.04-17.07.53:324][ 77]LogSavePackage: Moving output files for package: /Game/vehicle/mustangFull_PhysicsAsset
+[2023.11.04-17.07.53:324][ 77]LogSavePackage: Moving '../../../../../../Users/igoni/OneDrive/Documentos/Unreal Projects/VehicleSim/Saved/mustangFull_PhysicsAssetB7D25C0143DF6A1277FC8CB173C97E0C.tmp' to '../../../../../../Users/igoni/OneDrive/Documentos/Unreal Projects/VehicleSim/Content/vehicle/mustangFull_PhysicsAsset.uasset'
+[2023.11.04-17.07.53:332][ 77]LogSavePackage: Moving output files for package: /Game/vehicle/mustangFull_Skeleton_AnimBlueprint
+[2023.11.04-17.07.53:332][ 77]LogSavePackage: Moving '../../../../../../Users/igoni/OneDrive/Documentos/Unreal Projects/VehicleSim/Saved/mustangFull_Skeleton_AnimBluepri55CD530D421CBCAFC80901B95028FE52.tmp' to '../../../../../../Users/igoni/OneDrive/Documentos/Unreal Projects/VehicleSim/Content/vehicle/mustangFull_Skeleton_AnimBlueprint.uasset'
+[2023.11.04-17.07.53:333][ 77]LogSavePackage: Moving output files for package: /Game/vehicle/mustangFull_Skeleton
+[2023.11.04-17.07.53:333][ 77]LogSavePackage: Moving '../../../../../../Users/igoni/OneDrive/Documentos/Unreal Projects/VehicleSim/Saved/mustangFull_Skeleton50521EE34DCF1E3C8B6869BC38164AD4.tmp' to '../../../../../../Users/igoni/OneDrive/Documentos/Unreal Projects/VehicleSim/Content/vehicle/mustangFull_Skeleton.uasset'
+[2023.11.04-17.07.53:399][ 77]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/vehicle/rubber" FILE="../../../../../../Users/igoni/OneDrive/Documentos/Unreal Projects/VehicleSim/Content/vehicle/rubber.uasset" SILENT=true
+[2023.11.04-17.07.53:401][ 77]LogSavePackage: Moving output files for package: /Game/vehicle/rubber
+[2023.11.04-17.07.53:401][ 77]LogSavePackage: Moving '../../../../../../Users/igoni/OneDrive/Documentos/Unreal Projects/VehicleSim/Saved/rubber443D845B4E6CF009F37E25A1179EDE3C.tmp' to '../../../../../../Users/igoni/OneDrive/Documentos/Unreal Projects/VehicleSim/Content/vehicle/rubber.uasset'
+[2023.11.04-17.07.53:401][ 77]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/vehicle/lampBack" FILE="../../../../../../Users/igoni/OneDrive/Documentos/Unreal Projects/VehicleSim/Content/vehicle/lampBack.uasset" SILENT=true
+[2023.11.04-17.07.53:402][ 77]LogSavePackage: Moving output files for package: /Game/vehicle/lampBack
+[2023.11.04-17.07.53:402][ 77]LogSavePackage: Moving '../../../../../../Users/igoni/OneDrive/Documentos/Unreal Projects/VehicleSim/Saved/lampBack599252FD4009786E03C84D9D6AFAA308.tmp' to '../../../../../../Users/igoni/OneDrive/Documentos/Unreal Projects/VehicleSim/Content/vehicle/lampBack.uasset'
+[2023.11.04-17.07.53:403][ 77]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/vehicle/lampFront" FILE="../../../../../../Users/igoni/OneDrive/Documentos/Unreal Projects/VehicleSim/Content/vehicle/lampFront.uasset" SILENT=true
+[2023.11.04-17.07.53:404][ 77]LogSavePackage: Moving output files for package: /Game/vehicle/lampFront
+[2023.11.04-17.07.53:404][ 77]LogSavePackage: Moving '../../../../../../Users/igoni/OneDrive/Documentos/Unreal Projects/VehicleSim/Saved/lampFront729CF6EE4D288F0E41C65F887CFB83B7.tmp' to '../../../../../../Users/igoni/OneDrive/Documentos/Unreal Projects/VehicleSim/Content/vehicle/lampFront.uasset'
+[2023.11.04-17.07.53:405][ 77]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/vehicle/glass" FILE="../../../../../../Users/igoni/OneDrive/Documentos/Unreal Projects/VehicleSim/Content/vehicle/glass.uasset" SILENT=true
+[2023.11.04-17.07.53:406][ 77]LogSavePackage: Moving output files for package: /Game/vehicle/glass
+[2023.11.04-17.07.53:406][ 77]LogSavePackage: Moving '../../../../../../Users/igoni/OneDrive/Documentos/Unreal Projects/VehicleSim/Saved/glassAF3190754CBE82EB597AED9579EA4568.tmp' to '../../../../../../Users/igoni/OneDrive/Documentos/Unreal Projects/VehicleSim/Content/vehicle/glass.uasset'
+[2023.11.04-17.07.53:407][ 77]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/vehicle/carColor" FILE="../../../../../../Users/igoni/OneDrive/Documentos/Unreal Projects/VehicleSim/Content/vehicle/carColor.uasset" SILENT=true
+[2023.11.04-17.07.53:408][ 77]LogSavePackage: Moving output files for package: /Game/vehicle/carColor
+[2023.11.04-17.07.53:408][ 77]LogSavePackage: Moving '../../../../../../Users/igoni/OneDrive/Documentos/Unreal Projects/VehicleSim/Saved/carColorD3811CC04E1C08BD71725BBEDEC909AA.tmp' to '../../../../../../Users/igoni/OneDrive/Documentos/Unreal Projects/VehicleSim/Content/vehicle/carColor.uasset'
+[2023.11.04-17.07.53:450][ 77]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/vehicle/metal" FILE="../../../../../../Users/igoni/OneDrive/Documentos/Unreal Projects/VehicleSim/Content/vehicle/metal.uasset" SILENT=true
+[2023.11.04-17.07.53:452][ 77]LogSavePackage: Moving output files for package: /Game/vehicle/metal
+[2023.11.04-17.07.53:452][ 77]LogSavePackage: Moving '../../../../../../Users/igoni/OneDrive/Documentos/Unreal Projects/VehicleSim/Saved/metalECD7A13C47AFBD7AAAA580B7E78B8EFA.tmp' to '../../../../../../Users/igoni/OneDrive/Documentos/Unreal Projects/VehicleSim/Content/vehicle/metal.uasset'
+[2023.11.04-17.07.53:453][ 77]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/vehicle/mustangFull" FILE="../../../../../../Users/igoni/OneDrive/Documentos/Unreal Projects/VehicleSim/Content/vehicle/mustangFull.uasset" SILENT=true
+[2023.11.04-17.07.53:467][ 77]LogSavePackage: Moving output files for package: /Game/vehicle/mustangFull
+[2023.11.04-17.07.53:467][ 77]LogSavePackage: Moving '../../../../../../Users/igoni/OneDrive/Documentos/Unreal Projects/VehicleSim/Saved/mustangFullA56C30B94157C98FA385BD981A822999.tmp' to '../../../../../../Users/igoni/OneDrive/Documentos/Unreal Projects/VehicleSim/Content/vehicle/mustangFull.uasset'
+[2023.11.04-17.07.53:475][ 77]LogFileHelpers: InternalPromptForCheckoutAndSave took 261 ms (total: 17.4 sec)
+[2023.11.04-17.07.53:635][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2023.11.04-17.07.53:675][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2023.11.04-17.07.53:714][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2023.11.04-17.07.53:748][ 77]AssetCheck: New page: Asset Save: multiple assets
+[2023.11.04-17.07.53:748][ 77]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/bps/BP_Vehicle.BP_Vehicle
+[2023.11.04-17.07.53:748][ 77]LogContentValidation: Display: Validating /Script/Engine.PhysicsAsset /Game/vehicle/mustangFull_PhysicsAsset.mustangFull_PhysicsAsset
+[2023.11.04-17.07.53:748][ 77]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/vehicle/mustangFull_Skeleton_AnimBlueprint.mustangFull_Skeleton_AnimBlueprint
+[2023.11.04-17.07.53:748][ 77]LogContentValidation: Display: Validating /Script/Engine.Skeleton /Game/vehicle/mustangFull_Skeleton.mustangFull_Skeleton
+[2023.11.04-17.07.53:748][ 77]LogContentValidation: Display: Validating /Script/Engine.Material /Game/vehicle/rubber.rubber
+[2023.11.04-17.07.53:748][ 77]LogContentValidation: Display: Validating /Script/Engine.Material /Game/vehicle/lampBack.lampBack
+[2023.11.04-17.07.53:748][ 77]LogContentValidation: Display: Validating /Script/Engine.Material /Game/vehicle/lampFront.lampFront
+[2023.11.04-17.07.53:748][ 77]LogContentValidation: Display: Validating /Script/Engine.Material /Game/vehicle/glass.glass
+[2023.11.04-17.07.53:748][ 77]LogContentValidation: Display: Validating /Script/Engine.Material /Game/vehicle/carColor.carColor
+[2023.11.04-17.07.53:748][ 77]LogContentValidation: Display: Validating /Script/Engine.Material /Game/vehicle/metal.metal
+[2023.11.04-17.07.53:748][ 77]LogContentValidation: Display: Validating /Script/Engine.SkeletalMesh /Game/vehicle/mustangFull.mustangFull
+[2023.11.04-17.07.54:897][127]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.11.04-17.07.57:027][217]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2023.11.04-17.08.03:419][485]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
