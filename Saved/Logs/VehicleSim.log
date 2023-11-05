@@ -4251,3 +4251,277 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.11.05-14.41.41:237][ 18]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/bps/WBP_Speedmeter_Auto1
 [2023.11.05-14.41.41:237][ 18]LogSavePackage: Moving '../../../../../../Users/igoni/OneDrive/Documentos/Unreal Projects/VehicleSim/Saved/WBP_Speedmeter_Auto1219B39B448B4074D45D91C9382646781.tmp' to '../../../../../../Users/igoni/OneDrive/Documentos/Unreal Projects/VehicleSim/Saved/Autosaves/Game/bps/WBP_Speedmeter_Auto1.uasset'
 [2023.11.05-14.41.41:239][ 18]LogFileHelpers: Auto-saving content packages took 0.023
+[2023.11.05-14.59.12:360][334]LogHttp: Warning: 00000807BF782D00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BEEB663F7-442B-78DD-EA98-45A3CBE6D89A%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.1.1-23901901%2B%2B%2BUE5%2BRelease-5.1&UserID=35b9eb5340b5be2b462c92ba29b392d5%7C678416a96f834f8090faeb7ab07a9e5d%7C2020fb11-bfce-4aae-8604-54d8f580fb6a&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.11.05-14.59.12:360][334]LogHttp: Warning: 00000807BF782D00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.11.05-14.59.12:360][334]LogHttp: Warning: 00000807BF782D00: libcurl info message cache 0 (Too old connection (1060 seconds idle), disconnect it)
+[2023.11.05-14.59.12:360][334]LogHttp: Warning: 00000807BF782D00: libcurl info message cache 1 (Connection 1 seems to be dead)
+[2023.11.05-14.59.12:361][334]LogHttp: Warning: 00000807BF782D00: libcurl info message cache 2 (Closing connection 1)
+[2023.11.05-14.59.12:361][334]LogHttp: Warning: 00000807BF782D00: libcurl info message cache 3 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2023.11.05-14.59.12:361][334]LogHttp: Warning: 00000807BF782D00: libcurl info message cache 4 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2023.11.05-14.59.12:361][334]LogHttp: Warning: 00000807BF782D00: libcurl info message cache 5 (Hostname in DNS cache was stale, zapped)
+[2023.11.05-14.59.12:361][334]LogHttp: Warning: 00000807BF782D00: libcurl info message cache 6 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.11.05-14.59.12:361][334]LogHttp: Warning: 00000807BF782D00: libcurl info message cache 7 (Closing connection 2)
+[2023.11.05-14.59.12:361][334]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BEEB663F7-442B-78DD-EA98-45A3CBE6D89A%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.1.1-23901901%2B%2B%2BUE5%2BRelease-5.1&UserID=35b9eb5340b5be2b462c92ba29b392d5%7C678416a96f834f8090faeb7ab07a9e5d%7C2020fb11-bfce-4aae-8604-54d8f580fb6a&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.11.05-15.00.10:435][508]LogHttp: Warning: 00000807BF78F000: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BEEB663F7-442B-78DD-EA98-45A3CBE6D89A%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.1.1-23901901%2B%2B%2BUE5%2BRelease-5.1&UserID=35b9eb5340b5be2b462c92ba29b392d5%7C678416a96f834f8090faeb7ab07a9e5d%7C2020fb11-bfce-4aae-8604-54d8f580fb6a&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.11.05-15.00.10:435][508]LogHttp: Warning: 00000807BF78F000: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.11.05-15.00.10:435][508]LogHttp: Warning: 00000807BF78F000: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.11.05-15.00.10:435][508]LogHttp: Warning: 00000807BF78F000: libcurl info message cache 1 (Closing connection 3)
+[2023.11.05-15.00.10:435][508]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BEEB663F7-442B-78DD-EA98-45A3CBE6D89A%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.1.1-23901901%2B%2B%2BUE5%2BRelease-5.1&UserID=35b9eb5340b5be2b462c92ba29b392d5%7C678416a96f834f8090faeb7ab07a9e5d%7C2020fb11-bfce-4aae-8604-54d8f580fb6a&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.11.05-15.01.10:423][712]LogHttp: Warning: 00000807BF78CD00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BEEB663F7-442B-78DD-EA98-45A3CBE6D89A%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.1.1-23901901%2B%2B%2BUE5%2BRelease-5.1&UserID=35b9eb5340b5be2b462c92ba29b392d5%7C678416a96f834f8090faeb7ab07a9e5d%7C2020fb11-bfce-4aae-8604-54d8f580fb6a&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.11.05-15.01.10:423][712]LogHttp: Warning: 00000807BF78CD00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.11.05-15.01.10:423][712]LogHttp: Warning: 00000807BF78CD00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.11.05-15.01.10:423][712]LogHttp: Warning: 00000807BF78CD00: libcurl info message cache 1 (Closing connection 4)
+[2023.11.05-15.01.10:423][712]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BEEB663F7-442B-78DD-EA98-45A3CBE6D89A%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.1.1-23901901%2B%2B%2BUE5%2BRelease-5.1&UserID=35b9eb5340b5be2b462c92ba29b392d5%7C678416a96f834f8090faeb7ab07a9e5d%7C2020fb11-bfce-4aae-8604-54d8f580fb6a&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.11.05-15.02.10:432][892]LogHttp: Warning: 00000807BF78BE00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BEEB663F7-442B-78DD-EA98-45A3CBE6D89A%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.1.1-23901901%2B%2B%2BUE5%2BRelease-5.1&UserID=35b9eb5340b5be2b462c92ba29b392d5%7C678416a96f834f8090faeb7ab07a9e5d%7C2020fb11-bfce-4aae-8604-54d8f580fb6a&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.11.05-15.02.10:432][892]LogHttp: Warning: 00000807BF78BE00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.11.05-15.02.10:432][892]LogHttp: Warning: 00000807BF78BE00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.11.05-15.02.10:432][892]LogHttp: Warning: 00000807BF78BE00: libcurl info message cache 1 (Closing connection 5)
+[2023.11.05-15.02.10:432][892]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BEEB663F7-442B-78DD-EA98-45A3CBE6D89A%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.1.1-23901901%2B%2B%2BUE5%2BRelease-5.1&UserID=35b9eb5340b5be2b462c92ba29b392d5%7C678416a96f834f8090faeb7ab07a9e5d%7C2020fb11-bfce-4aae-8604-54d8f580fb6a&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.11.05-15.03.02:218][ 47]LogViewport: Scene viewport resized to 749x673, mode Windowed.
+[2023.11.05-15.03.05:689][114]LogViewport: Scene viewport resized to 753x673, mode Windowed.
+[2023.11.05-15.03.05:812][116]LogViewport: Scene viewport resized to 769x673, mode Windowed.
+[2023.11.05-15.03.05:879][118]LogViewport: Scene viewport resized to 779x673, mode Windowed.
+[2023.11.05-15.03.05:954][119]LogViewport: Scene viewport resized to 786x673, mode Windowed.
+[2023.11.05-15.03.06:039][121]LogViewport: Scene viewport resized to 795x673, mode Windowed.
+[2023.11.05-15.03.06:105][123]LogViewport: Scene viewport resized to 814x673, mode Windowed.
+[2023.11.05-15.03.06:202][125]LogViewport: Scene viewport resized to 815x673, mode Windowed.
+[2023.11.05-15.03.06:538][136]LogViewport: Scene viewport resized to 811x673, mode Windowed.
+[2023.11.05-15.03.09:718][226]LogViewport: Scene viewport resized to 320x265, mode Windowed.
+[2023.11.05-15.03.09:942][231]LogHttp: Warning: 00000807F29BCD00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BEEB663F7-442B-78DD-EA98-45A3CBE6D89A%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.1.1-23901901%2B%2B%2BUE5%2BRelease-5.1&UserID=35b9eb5340b5be2b462c92ba29b392d5%7C678416a96f834f8090faeb7ab07a9e5d%7C2020fb11-bfce-4aae-8604-54d8f580fb6a&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.11.05-15.03.09:942][231]LogHttp: Warning: 00000807F29BCD00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.11.05-15.03.09:942][231]LogHttp: Warning: 00000807F29BCD00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.11.05-15.03.09:942][231]LogHttp: Warning: 00000807F29BCD00: libcurl info message cache 1 (Closing connection 6)
+[2023.11.05-15.03.09:942][231]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BEEB663F7-442B-78DD-EA98-45A3CBE6D89A%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.1.1-23901901%2B%2B%2BUE5%2BRelease-5.1&UserID=35b9eb5340b5be2b462c92ba29b392d5%7C678416a96f834f8090faeb7ab07a9e5d%7C2020fb11-bfce-4aae-8604-54d8f580fb6a&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.11.05-15.03.11:553][278]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.11.05-15.03.46:419][322]LogViewport: Scene viewport resized to 811x652, mode Windowed.
+[2023.11.05-15.03.46:510][323]LogViewport: Scene viewport resized to 320x257, mode Windowed.
+[2023.11.05-15.03.46:565][324]LogViewport: Scene viewport resized to 811x537, mode Windowed.
+[2023.11.05-15.03.46:621][325]LogViewport: Scene viewport resized to 320x212, mode Windowed.
+[2023.11.05-15.03.50:028][401]LogViewport: Scene viewport resized to 811x510, mode Windowed.
+[2023.11.05-15.03.50:115][402]LogViewport: Scene viewport resized to 320x201, mode Windowed.
+[2023.11.05-15.03.50:178][403]LogViewport: Scene viewport resized to 811x484, mode Windowed.
+[2023.11.05-15.03.50:237][404]LogViewport: Scene viewport resized to 811x477, mode Windowed.
+[2023.11.05-15.03.50:299][404]LogViewport: Scene viewport resized to 320x191, mode Windowed.
+[2023.11.05-15.03.50:338][405]LogViewport: Scene viewport resized to 320x188, mode Windowed.
+[2023.11.05-15.03.55:740][502]LogEditCondition: Error: EditCondition parsing failed: Field name "bNewWheelSimulation" was not found in class "ChaosVehicleWheel".
+[2023.11.05-15.03.55:948][505]LogShaderCompilers: Display: ================================================
+[2023.11.05-15.03.55:948][505]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.11.05-15.03.55:948][505]LogShaderCompilers: Display: Total job queries 165, among them cache hits 26 (15.76%)
+[2023.11.05-15.03.55:948][505]LogShaderCompilers: Display: Tracking 139 distinct input hashes that result in 88 distinct outputs (63.31%)
+[2023.11.05-15.03.55:948][505]LogShaderCompilers: Display: RAM used: 1.11 MB (0.00 GB) of 1228.80 MB (1.20 GB) budget. Usage: 0.09%
+[2023.11.05-15.03.55:948][505]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.11.05-15.03.55:948][505]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.11.05-15.03.55:948][505]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.11.05-15.03.55:948][505]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.11.05-15.03.55:948][505]LogShaderCompilers: Display: ================================================
+[2023.11.05-15.04.04:033][758]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2023.11.05-15.04.04:033][758]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.05-15.04.04:045][758]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2023.11.05-15.04.04:045][758]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.05-15.04.04:168][762]LogHttp: Warning: 00000807DD2A5F00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BEEB663F7-442B-78DD-EA98-45A3CBE6D89A%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.1.1-23901901%2B%2B%2BUE5%2BRelease-5.1&UserID=35b9eb5340b5be2b462c92ba29b392d5%7C678416a96f834f8090faeb7ab07a9e5d%7C2020fb11-bfce-4aae-8604-54d8f580fb6a&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.11.05-15.04.04:168][762]LogHttp: Warning: 00000807DD2A5F00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.11.05-15.04.04:168][762]LogHttp: Warning: 00000807DD2A5F00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.11.05-15.04.04:168][762]LogHttp: Warning: 00000807DD2A5F00: libcurl info message cache 1 (Closing connection 7)
+[2023.11.05-15.04.04:168][762]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BEEB663F7-442B-78DD-EA98-45A3CBE6D89A%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.1.1-23901901%2B%2B%2BUE5%2BRelease-5.1&UserID=35b9eb5340b5be2b462c92ba29b392d5%7C678416a96f834f8090faeb7ab07a9e5d%7C2020fb11-bfce-4aae-8604-54d8f580fb6a&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.11.05-15.04.05:090][782]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2023.11.05-15.04.05:090][782]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.05-15.04.06:254][808]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2023.11.05-15.04.06:254][808]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.05-15.04.08:192][843]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/bps/RearWheel.RearWheel
+[2023.11.05-15.04.08:193][843]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.05-15.04.52:033][ 24]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.05-15.04.54:033][ 30]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.11.05-15.04.55:837][ 36]LogUdpMessaging: Display: Added local interface '192.168.15.86' to multicast group '230.0.0.1:6666'
+[2023.11.05-15.06.45:684][515]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.11.05-15.06.45:686][515]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.11.05-15.06.45:686][515]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.11.05-15.06.49:752][515]LogSlate: Window 'Pick Physical Material Class' being destroyed
+[2023.11.05-15.06.49:797][515]LogContentBrowser: Deferred new asset file creation: NewPhysicalMaterial
+[2023.11.05-15.06.49:805][515]LogContentBrowser: Creating deferred item: NewPhysicalMaterial
+[2023.11.05-15.06.49:822][516]LogContentBrowser: Renaming the item being created (Deferred Item: NewPhysicalMaterial).
+[2023.11.05-15.06.56:448][711]LogContentBrowser: Attempting asset rename: NewPhysicalMaterial -> PM_Floor
+[2023.11.05-15.06.56:471][711]LogContentBrowser: End creating deferred item NewPhysicalMaterial
+[2023.11.05-15.44.41:185][879]LogAssetEditorSubsystem: Opening Asset editor for PhysicalMaterial /Game/bps/PM_Floor.PM_Floor
+[2023.11.05-15.44.45:788][931]LogSlate: Window 'PM_Floor' being destroyed
+[2023.11.05-15.45.20:319][191]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.05-15.45.20:513][191]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bps/PM_Floor" FILE="../../../../../../Users/igoni/OneDrive/Documentos/Unreal Projects/VehicleSim/Content/bps/PM_Floor.uasset" SILENT=true
+[2023.11.05-15.45.20:514][191]LogSavePackage: Moving output files for package: /Game/bps/PM_Floor
+[2023.11.05-15.45.20:514][191]LogSavePackage: Moving '../../../../../../Users/igoni/OneDrive/Documentos/Unreal Projects/VehicleSim/Saved/PM_FloorB941788F4BAC60D2538509A0C3845E59.tmp' to '../../../../../../Users/igoni/OneDrive/Documentos/Unreal Projects/VehicleSim/Content/bps/PM_Floor.uasset'
+[2023.11.05-15.45.20:619][191]LogFileHelpers: InternalPromptForCheckoutAndSave took 298 ms (total: 3.35 sec)
+[2023.11.05-15.45.20:634][191]AssetCheck: New page: Asset Save: PM_Floor
+[2023.11.05-15.45.20:634][191]LogContentValidation: Display: Validating /Script/PhysicsCore.PhysicalMaterial /Game/bps/PM_Floor.PM_Floor
+[2023.11.05-15.45.45:905][554]LogViewport: Scene viewport resized to 779x477, mode Windowed.
+[2023.11.05-15.45.46:019][556]LogViewport: Scene viewport resized to 698x477, mode Windowed.
+[2023.11.05-15.45.46:181][560]LogViewport: Scene viewport resized to 658x477, mode Windowed.
+[2023.11.05-15.45.46:266][561]LogViewport: Scene viewport resized to 626x477, mode Windowed.
+[2023.11.05-15.45.46:345][563]LogViewport: Scene viewport resized to 613x477, mode Windowed.
+[2023.11.05-15.45.52:157][698]LogShaderCompilers: Display: ================================================
+[2023.11.05-15.45.52:157][698]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.11.05-15.45.52:157][698]LogShaderCompilers: Display: Total job queries 169, among them cache hits 26 (15.38%)
+[2023.11.05-15.45.52:157][698]LogShaderCompilers: Display: Tracking 140 distinct input hashes that result in 89 distinct outputs (63.57%)
+[2023.11.05-15.45.52:157][698]LogShaderCompilers: Display: RAM used: 1.11 MB (0.00 GB) of 1228.80 MB (1.20 GB) budget. Usage: 0.09%
+[2023.11.05-15.45.52:157][698]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.11.05-15.45.52:157][698]LogShaderCompilers: Display: Shaders Compiled: 1
+[2023.11.05-15.45.52:157][698]LogShaderCompilers: Display: Jobs assigned 4, completed 1 (25.00%)
+[2023.11.05-15.45.52:157][698]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.06 s
+[2023.11.05-15.45.52:157][698]LogShaderCompilers: Display: Job execution time: average 2.69 s, max 2.69 s
+[2023.11.05-15.45.52:157][698]LogShaderCompilers: Display: Job life time (pending + execution): average 2.74 s, max 2.74
+[2023.11.05-15.45.52:157][698]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 2.74 s
+[2023.11.05-15.45.52:157][698]LogShaderCompilers: Display: Jobs were issued in 4 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.11.05-15.45.52:157][698]LogShaderCompilers: Display: Average processing rate: 0.36 jobs/sec
+[2023.11.05-15.45.52:157][698]LogShaderCompilers: Display: Total thread time: 1.02 s
+[2023.11.05-15.45.52:157][698]LogShaderCompilers: Display: Total thread preprocess time: 0.17 s
+[2023.11.05-15.45.52:157][698]LogShaderCompilers: Display: Percentage time preprocessing: 16.33%
+[2023.11.05-15.45.52:157][698]LogShaderCompilers: Display: Effective parallelization: 0.37 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.11.05-15.45.52:157][698]LogShaderCompilers: Display: Top 1 most expensive shader types by average time:
+[2023.11.05-15.45.52:157][698]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    1 times, average 1.02 sec, max 1.02 sec, min 1.02 sec)
+[2023.11.05-15.45.52:157][698]LogShaderCompilers: Display: Top 1 shader types by total compile time:
+[2023.11.05-15.45.52:157][698]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 100.00% of total time (compiled    1 times, average 1.02 sec, max 1.02 sec, min 1.02 sec)
+[2023.11.05-15.45.52:157][698]LogShaderCompilers: Display: ================================================
+[2023.11.05-15.45.56:112][748]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.05-15.45.56:120][748]LogContentBundle: [Container: NewMap] Generating Streaming for 0 Content Bundles.
+[2023.11.05-15.45.56:126][748]LogWorldPartition: Display: GenerateStreaming started...
+[2023.11.05-15.45.56:126][748]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.11.05-15.45.56:126][748]LogWorldPartition: Display: GetPartitionedActors took 38 us (total: 210 us)
+[2023.11.05-15.45.56:322][748]LogWorldPartition: Display: GenerateStreaming took 196 ms (total: 1.43 sec)
+[2023.11.05-15.45.56:324][748]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.05-15.45.56:324][748]PIE: New page: Sessão de PIE : NewMap (5 de nov de 2023 09:45:56)
+[2023.11.05-15.45.56:324][748]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2023.11.05-15.45.56:345][748]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022253s)
+[2023.11.05-15.45.56:347][748]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.022287s)
+[2023.11.05-15.45.56:347][748]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.05-15.45.56:347][748]LogAIModule: Creating AISystem for world NewMap
+[2023.11.05-15.45.56:348][748]LogWorldPartition: ULevel::OnLevelLoaded(NewMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.11.05-15.45.56:348][748]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.11.05-15.45.56:348][748]LogWorldPartition: UWorldPartition::Initialize(Asset=NewMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.11.05-15.45.56:352][748]LogContentBundle: [Container: NewMap] Creating new contrainer.
+[2023.11.05-15.45.56:352][748]LogWorldPartition: Display: WorldPartition initialize took 4 ms (total: 2.49 sec)
+[2023.11.05-15.45.56:352][748]LogPlayLevel: PIE: World Init took: (0.005924s)
+[2023.11.05-15.45.56:434][748]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2023.11.05-15.45.56:438][748]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2023.11.05-15.45.56:438][748]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.05-15.45.56:438][748]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.05-15.45.56:439][748]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.05-15.45.56:439][748]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.05-15.45.56:439][748]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.05-15.45.56:439][748]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.05-15.45.56:439][748]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.05-15.45.56:439][748]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.05-15.45.56:439][748]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.05-15.45.56:439][748]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.05-15.45.56:439][748]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.05-15.45.56:442][748]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.05-15.45.56:527][748]LogAudioMixer: Display: Using Audio Hardware Device Altofalantes (Realtek(R) Audio)
+[2023.11.05-15.45.56:527][748]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.05-15.45.56:527][748]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.05-15.45.56:527][748]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.05-15.45.56:529][748]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2023.11.05-15.45.56:529][748]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=5
+[2023.11.05-15.45.56:531][748]LogInit: FAudioDevice initialized.
+[2023.11.05-15.45.56:531][748]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2023.11.05-15.45.56:531][748]LogAudio: Display: Audio Device (ID: 5) registered with world 'NewMap'.
+[2023.11.05-15.45.56:531][748]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2023.11.05-15.45.56:535][748]LogLoad: Game class is 'GameModeBase'
+[2023.11.05-15.45.56:536][748]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2023.11.05-12.45.56
+[2023.11.05-15.45.56:536][748]LogWorld: Bringing up level for play took: 0.000715
+[2023.11.05-15.45.56:539][748]LogOnline: OSS: Created online subsystem instance for: :Context_18
+[2023.11.05-15.45.56:540][748]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=20675.165 Y=19548.193 Z=764.388
+[2023.11.05-15.45.56:540][748]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(41), CellsToLoad(0), CellsToUnload(0)
+[2023.11.05-15.45.56:540][748]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=20675.165 Y=19548.193 Z=764.388,P=0.000000 Y=105.934800 R=-0.000000
+[2023.11.05-15.45.56:679][748]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/F/47/SRE2F10IBLNCEHWHDB0R5Q.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.05-15.45.56:679][748]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/E/N8/PFO7BDZ0JAA14BRARTV0S0.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.05-15.45.56:679][748]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/D/YE/SR6HPODQM7KP47H3B60IL3.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.05-15.45.56:679][748]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/D/JR/WB3NI9RNBS8ZM7NAOBCUT1.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.05-15.45.56:679][748]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/D/CY/79499WIO2JEGDOHXKAVE2Q.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.05-15.45.56:679][748]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/D/8Z/4LSU7JRUL69YYIDJGSE35W.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.05-15.45.56:679][748]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/C/Z1/5JJ1TP1XPKW9WSX7HGUMJU.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.05-15.45.56:679][748]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/C/MP/7SW071I54YKZ7WANNW9ZNF.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.05-15.45.56:679][748]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/C/7A/579A09SC2JTS2H6LSR13PL.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.05-15.45.56:679][748]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/B/QO/2LS1PO2KB0MPBU3Q10JQLS.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.05-15.45.56:679][748]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/B/MX/VD8G2R3DRQURL3L2N8FK5A.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.05-15.45.56:679][748]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/B/EO/2UN44M3CSTF66URSISACO7.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.05-15.45.56:679][748]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/B/8P/CM2NN20XZG7JOWND4OKSFF.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.05-15.45.56:679][748]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/B/1O/W74LG5Z5X560FBYOC0UL54.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.05-15.45.56:679][748]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/A/OY/ET64S8Y7B7A56RDOXEXET4.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.05-15.45.56:679][748]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/A/NH/500JBYKPF78U8D5OIH4ZTV.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.05-15.45.56:679][748]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/A/KF/0HUUB8ZWRIJMRUKUDDMH1E.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.05-15.45.56:679][748]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/A/IO/8Z6TE7XPJH0N4NGDM5G8FO.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.05-15.45.56:679][748]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/A/HQ/88P9BDP4TVKYFOZOJN3QMQ.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.05-15.45.56:679][748]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/A/97/TJ4C9PDLS1GUU3HZVA9VAW.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.05-15.45.56:679][748]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/9/XH/RE3KCKBHLMM1GG0PY3DP2X.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.05-15.45.56:679][748]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/9/TR/EQW5T4BO9JJ206FV4WNNES.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.05-15.45.56:679][748]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/9/S0/ZQAAAMNNZKH0GPXO0DBFMJ.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.05-15.45.56:679][748]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/9/R1/8BCEFBDGK0H81DULB6PL99.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.05-15.45.56:679][748]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/9/P8/B0WWH2443MBX8KNWBXHRF4.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.05-15.45.56:679][748]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/9/F0/2PBKWHHRFBG1A4L1JXPK2N.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.05-15.45.56:679][748]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/9/2R/7Y8MMR44XVULYO5P3YZL6Q.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.05-15.45.56:679][748]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/8/V0/ZL0SLSEYGYT07XDJ00EIUF.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.05-15.45.56:679][748]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/8/B3/RBYC3BLDB8MGWKK1EO1GW0.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.05-15.45.56:679][748]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/8/03/XUBA90OKAR0F82M61W3CX8.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.05-15.45.56:679][748]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/7/ZI/H9Z8XD8BJTDFP4C3J5UYO5.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.05-15.45.56:679][748]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/7/P9/5INQQWN21QET7O4P293LRP.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.05-15.45.56:679][748]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/7/OX/U1S14RGV0J3HYBLRGYLFIH.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.05-15.45.56:679][748]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/7/69/K2DUYEPPDEHF7DXTMITAO4.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.05-15.45.56:679][748]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/6/HH/WEV2UZOW80WMJE695BD7Q8.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.05-15.45.56:679][748]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/6/FM/N6HUV654J3L83XHWCME1XN.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.05-15.45.56:679][748]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/6/5X/42927YT2PIUFMXJ9TCYHNH.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.05-15.45.56:679][748]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/6/2O/DXFGF2WM4JJABUV0FET9FV.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2023.11.05-15.45.56:679][748]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/5/XG/8DSW2V35VY2X5SMHCJ0A83.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.05-15.45.56:679][748]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/5/K5/N5PQOIOOZA749OR27OS0F7.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.05-15.45.56:679][748]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/5/J7/A965JVJJK99ZV7RSG0A80Y.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.05-15.45.56:679][748]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/4/OC/ZNLH3RF59GXIC6NLPXICJV.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.05-15.45.56:679][748]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/4/6W/J14X55NXI3UVJMVVIW1NAN.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.05-15.45.56:679][748]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/4/5W/6XNNGY07XFQS1KA8BSIAGI.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.05-15.45.56:679][748]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/3/XV/FQZFA2ZLA9XBN7XWV0QIN8.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.05-15.45.56:679][748]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/3/GN/GA7D4CR7K6V687F7J61C3N.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.05-15.45.56:679][748]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/3/7K/TMNUAYLY4F5HL33COW5OC3.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.05-15.45.56:679][748]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/2/WD/GI741NDVNZBKI2A7TXX224.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.05-15.45.56:679][748]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/2/RD/GHAKQAVACU5JIZXY0Y8JB5.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.05-15.45.56:679][748]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/2/IG/Y65WPOHBQW42TNWBNMQ1L3.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.05-15.45.56:679][748]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/2/97/3V83DZXP0WILS8G17CM3NX.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.05-15.45.56:679][748]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/2/5S/LKWFWDPYQSEQSQPB66JM48.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.05-15.45.56:679][748]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/2/4C/VZIZRHQCO6B7KG8DEJKZAU.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.05-15.45.56:679][748]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/2/3Q/WL4B65TFTACMIMHM4H03A7.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.05-15.45.56:679][748]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/1/J6/P0NXNHI04JBPOHH6OHIDSK.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.05-15.45.56:679][748]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/1/FP/E0070ZPQ0510UOASJSCVAJ.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.05-15.45.56:679][748]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/1/DT/ZX3WQ173AO0DO5BNMZ4U3K.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.05-15.45.56:679][748]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/1/4E/Q1KRQ2YOUWFAZ0SNJ2S0IF.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.05-15.45.56:679][748]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/1/40/44UC22RK64JP3YG9GR8ZH4.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.05-15.45.56:679][748]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/1/3C/PEH7TW33XZKZ1EF9JBCDPX.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.05-15.45.56:679][748]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/1/0H/BMRPGXAA4ISZUWMZHYLHZI.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.05-15.45.56:679][748]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/0/QY/YUZCOR8LUXX6PIBH0Q0BO9.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.05-15.45.56:679][748]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/0/65/3U8C974D5MOQ8LAHOO4OCF.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.05-15.45.56:679][748]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/NewMap/0/19/P6TW7XC9AP5UWY79STK9GK.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.05-15.45.56:734][748]LogStreaming: Display: FlushAsyncLoading(-1): 40 QueuedPackages, 0 AsyncPackages
+[2023.11.05-15.45.57:052][748]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(1), CellsToLoad(0), CellsToUnload(0)
+[2023.11.05-15.45.57:052][748]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=19940.000 Y=22410.000 Z=40.000,P=0.000000 Y=0.000000 R=-0.000000
+[2023.11.05-15.45.57:062][748]PIE: Servidor conectado
+[2023.11.05-15.45.57:062][748]PIE: Play in editor total start time 0,942 seconds.
+[2023.11.05-15.46.03:577][862]LogStreaming: Display: UWorld::AddToWorld: updating components for /Memory/UEDPIE_0_MainGrid_L0_X3_Y3_DL0 took (less than) 63.27 ms
+[2023.11.05-15.46.06:877][962]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.05-15.46.06:877][962]LogWorld: BeginTearingDown for /Game/UEDPIE_0_NewMap
+[2023.11.05-15.46.06:909][962]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2023.11.05-15.46.06:909][962]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.05-15.46.06:909][962]LogContentBundle: [Container: NewMap] Deleting container.
+[2023.11.05-15.46.06:928][962]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.05-15.46.06:948][962]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.05-15.46.07:006][962]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.05-15.46.07:013][962]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2023.11.05-15.46.07:015][962]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2023.11.05-15.46.07:049][962]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2023.11.05-15.46.07:276][963]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2023.11.05-15.46.13:223][991]LogUObjectHash: Compacting FUObjectHashTables data took   8.79ms
+[2023.11.05-15.46.14:175][991]LogSlate: Window 'Salvar Conteúdo' being destroyed
+[2023.11.05-15.46.14:248][991]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.05-15.46.14:415][991]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/6/8V/HBPGKFA5KCOKTYISU5ERK6
+[2023.11.05-15.46.14:416][991]LogSavePackage: Moving '../../../../../../Users/igoni/OneDrive/Documentos/Unreal Projects/VehicleSim/Saved/HBPGKFA5KCOKTYISU5ERK6DB886080480B6DC567349389746DF26C.tmp' to '../../../../../../Users/igoni/OneDrive/Documentos/Unreal Projects/VehicleSim/Content/__ExternalActors__/NewMap/6/8V/HBPGKFA5KCOKTYISU5ERK6.uasset'
+[2023.11.05-15.46.14:439][991]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/A/DN/K5XHNT2TJPQ6HM9TN0HG8R
+[2023.11.05-15.46.14:440][991]LogSavePackage: Moving '../../../../../../Users/igoni/OneDrive/Documentos/Unreal Projects/VehicleSim/Saved/K5XHNT2TJPQ6HM9TN0HG8R659C3AC949A47728F3C559913F19AFDE.tmp' to '../../../../../../Users/igoni/OneDrive/Documentos/Unreal Projects/VehicleSim/Content/__ExternalActors__/NewMap/A/DN/K5XHNT2TJPQ6HM9TN0HG8R.uasset'
+[2023.11.05-15.46.14:444][991]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bps/WBP_Speedmeter" FILE="../../../../../../Users/igoni/OneDrive/Documentos/Unreal Projects/VehicleSim/Content/bps/WBP_Speedmeter.uasset" SILENT=true
+[2023.11.05-15.46.14:464][991]LogSavePackage: Moving output files for package: /Game/bps/WBP_Speedmeter
+[2023.11.05-15.46.14:465][991]LogSavePackage: Moving '../../../../../../Users/igoni/OneDrive/Documentos/Unreal Projects/VehicleSim/Saved/WBP_SpeedmeterE1873EEA4377DACF8ABFF68A18CAFD54.tmp' to '../../../../../../Users/igoni/OneDrive/Documentos/Unreal Projects/VehicleSim/Content/bps/WBP_Speedmeter.uasset'
+[2023.11.05-15.46.14:514][991]LogFileHelpers: InternalPromptForCheckoutAndSave took 266 ms (total: 3.62 sec)
+[2023.11.05-15.46.14:529][991]AssetCheck: New page: Asset Save: multiple assets
+[2023.11.05-15.46.14:529][991]LogContentValidation: Display: Validating /Game/bps/BP_Vehicle.BP_Vehicle_C /Game/NewMap.NewMap:PersistentLevel.BP_Vehicle_C_UAID_B44506948CDA29B901_1163297737
+[2023.11.05-15.46.14:530][991]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_4_0
+[2023.11.05-15.46.14:530][991]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/bps/WBP_Speedmeter.WBP_Speedmeter
