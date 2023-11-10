@@ -4541,3 +4541,539 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.11.10-11.41.36:892][ 79]AssetCheck: New page: Asset Save: multiple assets
 [2023.11.10-11.41.36:892][ 79]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/bps/BP_Vehicle.BP_Vehicle
 [2023.11.10-11.41.36:892][ 79]LogContentValidation: Display: Validating /Script/Engine.World /Game/AssetsvilleTown/Maps/Demonstration.Demonstration
+[2023.11.10-11.41.52:445][227]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.11.10-11.42.34:952][683]BlueprintLog: New page: Compilar BP_Vehicle
+[2023.11.10-11.42.35:062][683]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2023.11.10-11.42.36:300][742]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.10-11.42.36:309][742]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.10-11.42.36:309][742]PIE: New page: Sessão de PIE : Demonstration (10 de nov de 2023 05:42:36)
+[2023.11.10-11.42.36:309][742]LogPlayLevel: Creating play world package: /Game/AssetsvilleTown/Maps/UEDPIE_0_Demonstration
+[2023.11.10-11.42.36:718][742]LogPlayLevel: PIE: StaticDuplicateObject took: (0.409178s)
+[2023.11.10-11.42.36:718][742]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AssetsvilleTown/Maps/Demonstration.Demonstration to /Game/AssetsvilleTown/Maps/UEDPIE_0_Demonstration.Demonstration (0.409225s)
+[2023.11.10-11.42.36:719][742]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.10-11.42.36:719][742]LogAIModule: Creating AISystem for world Demonstration
+[2023.11.10-11.42.36:720][742]LogPlayLevel: PIE: World Init took: (0.001975s)
+[2023.11.10-11.42.36:772][742]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2023.11.10-11.42.36:777][742]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2023.11.10-11.42.36:777][742]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.10-11.42.36:777][742]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.10-11.42.36:777][742]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.10-11.42.36:777][742]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.10-11.42.36:777][742]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.10-11.42.36:777][742]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.10-11.42.36:777][742]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.10-11.42.36:777][742]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.10-11.42.36:777][742]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.10-11.42.36:777][742]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.10-11.42.36:777][742]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.10-11.42.36:779][742]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.10-11.42.36:832][742]LogAudioMixer: Display: Using Audio Hardware Device Altofalantes (Realtek(R) Audio)
+[2023.11.10-11.42.36:832][742]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.10-11.42.36:833][742]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.10-11.42.36:833][742]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.10-11.42.36:833][742]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2023.11.10-11.42.36:833][742]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=15
+[2023.11.10-11.42.36:835][742]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2023.11.10-11.42.36:836][742]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2023.11.10-11.42.36:836][742]LogInit: FAudioDevice initialized.
+[2023.11.10-11.42.36:836][742]LogAudio: Display: Audio Device (ID: 15) registered with world 'Demonstration'.
+[2023.11.10-11.42.36:840][742]LogLoad: Game class is 'FunctionalTestGameMode'
+[2023.11.10-11.42.37:008][742]LogWorld: Bringing World /Game/AssetsvilleTown/Maps/UEDPIE_0_Demonstration.Demonstration up for play (max tick rate 0) at 2023.11.10-08.42.37
+[2023.11.10-11.42.37:011][742]LogWorld: Bringing up level for play took: 0.170758
+[2023.11.10-11.42.37:013][742]LogOnline: OSS: Created online subsystem instance for: :Context_29
+[2023.11.10-11.42.37:017][742]PIE: Servidor conectado
+[2023.11.10-11.42.37:018][742]PIE: Play in editor total start time 0,71 seconds.
+[2023.11.10-11.43.06:980][361]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.10-11.43.06:980][361]LogWorld: BeginTearingDown for /Game/AssetsvilleTown/Maps/UEDPIE_0_Demonstration
+[2023.11.10-11.43.06:983][361]LogWorld: UWorld::CleanupWorld for Demonstration, bSessionEnded=true, bCleanupResources=true
+[2023.11.10-11.43.07:002][361]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.10-11.43.07:036][361]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.10-11.43.07:049][361]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.10-11.43.07:114][361]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.10-11.43.07:115][361]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2023.11.10-11.43.07:117][361]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2023.11.10-11.43.07:125][361]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.10-11.43.07:174][361]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2023.11.10-11.43.07:287][362]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2023.11.10-11.43.10:058][470]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2023.11.10-11.43.11:005][470]LogSlate: Window 'Salvar Conteúdo' being destroyed
+[2023.11.10-11.43.11:014][470]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.10-11.43.11:158][470]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2023.11.10-11.43.12:319][470]LogSavePackage: Moving output files for package: /Game/AssetsvilleTown/Maps/Demonstration
+[2023.11.10-11.43.12:319][470]LogSavePackage: Moving '../../../../../../Users/igoni/OneDrive/Documentos/Unreal Projects/VehicleSim/Saved/DemonstrationF123B41B4116023448B578A08C33E2B7.tmp' to '../../../../../../Users/igoni/OneDrive/Documentos/Unreal Projects/VehicleSim/Content/AssetsvilleTown/Maps/Demonstration.umap'
+[2023.11.10-11.43.12:354][470]LogFileHelpers: Nenhuma alteração a salvar!
+[2023.11.10-11.43.12:354][470]LogFileHelpers: Saving map 'Demonstration' took 1.253
+[2023.11.10-11.43.12:400][470]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bps/BP_Vehicle" FILE="../../../../../../Users/igoni/OneDrive/Documentos/Unreal Projects/VehicleSim/Content/bps/BP_Vehicle.uasset" SILENT=true
+[2023.11.10-11.43.12:447][470]LogSavePackage: Moving output files for package: /Game/bps/BP_Vehicle
+[2023.11.10-11.43.12:448][470]LogSavePackage: Moving '../../../../../../Users/igoni/OneDrive/Documentos/Unreal Projects/VehicleSim/Saved/BP_VehicleEC99E5774CCC4FD16C1975A82ECDDD21.tmp' to '../../../../../../Users/igoni/OneDrive/Documentos/Unreal Projects/VehicleSim/Content/bps/BP_Vehicle.uasset'
+[2023.11.10-11.43.12:456][470]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.44 sec (total: 25.7 sec)
+[2023.11.10-11.43.12:487][470]AssetCheck: New page: Asset Save: multiple assets
+[2023.11.10-11.43.12:487][470]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/bps/BP_Vehicle.BP_Vehicle
+[2023.11.10-11.43.12:487][470]LogContentValidation: Display: Validating /Script/Engine.World /Game/AssetsvilleTown/Maps/Demonstration.Demonstration
+[2023.11.10-11.43.18:053][796]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/bps/FrontWheel.FrontWheel
+[2023.11.10-11.43.18:053][796]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.10-11.43.18:529][797]LogEditCondition: Error: EditCondition parsing failed: Field name "bNewWheelSimulation" was not found in class "ChaosVehicleWheel".
+[2023.11.10-11.43.46:917][180]BlueprintLog: New page: Compilar FrontWheel
+[2023.11.10-11.43.46:980][180]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2023.11.10-11.43.48:427][288]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.10-11.43.48:435][288]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.10-11.43.48:435][288]PIE: New page: Sessão de PIE : Demonstration (10 de nov de 2023 05:43:48)
+[2023.11.10-11.43.48:473][288]LogPlayLevel: Creating play world package: /Game/AssetsvilleTown/Maps/UEDPIE_0_Demonstration
+[2023.11.10-11.43.48:869][288]LogPlayLevel: PIE: StaticDuplicateObject took: (0.396609s)
+[2023.11.10-11.43.48:869][288]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AssetsvilleTown/Maps/Demonstration.Demonstration to /Game/AssetsvilleTown/Maps/UEDPIE_0_Demonstration.Demonstration (0.396665s)
+[2023.11.10-11.43.48:870][288]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.10-11.43.48:870][288]LogAIModule: Creating AISystem for world Demonstration
+[2023.11.10-11.43.48:871][288]LogPlayLevel: PIE: World Init took: (0.002298s)
+[2023.11.10-11.43.48:929][288]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2023.11.10-11.43.48:931][288]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2023.11.10-11.43.48:931][288]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.10-11.43.48:931][288]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.10-11.43.48:931][288]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.10-11.43.48:931][288]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.10-11.43.48:931][288]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.10-11.43.48:931][288]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.10-11.43.48:931][288]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.10-11.43.48:931][288]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.10-11.43.48:931][288]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.10-11.43.48:931][288]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.10-11.43.48:931][288]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.10-11.43.48:934][288]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.10-11.43.48:988][288]LogAudioMixer: Display: Using Audio Hardware Device Altofalantes (Realtek(R) Audio)
+[2023.11.10-11.43.48:988][288]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.10-11.43.48:988][288]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.10-11.43.48:988][288]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.10-11.43.48:989][288]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2023.11.10-11.43.48:989][288]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=16
+[2023.11.10-11.43.48:991][288]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2023.11.10-11.43.48:991][288]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2023.11.10-11.43.48:991][288]LogInit: FAudioDevice initialized.
+[2023.11.10-11.43.48:991][288]LogAudio: Display: Audio Device (ID: 16) registered with world 'Demonstration'.
+[2023.11.10-11.43.48:995][288]LogLoad: Game class is 'FunctionalTestGameMode'
+[2023.11.10-11.43.49:174][288]LogWorld: Bringing World /Game/AssetsvilleTown/Maps/UEDPIE_0_Demonstration.Demonstration up for play (max tick rate 0) at 2023.11.10-08.43.49
+[2023.11.10-11.43.49:177][288]LogWorld: Bringing up level for play took: 0.182380
+[2023.11.10-11.43.49:179][288]LogOnline: OSS: Created online subsystem instance for: :Context_31
+[2023.11.10-11.43.49:185][288]PIE: Servidor conectado
+[2023.11.10-11.43.49:185][288]PIE: Play in editor total start time 0,75 seconds.
+[2023.11.10-11.44.26:478][486]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.10-11.44.26:478][486]LogWorld: BeginTearingDown for /Game/AssetsvilleTown/Maps/UEDPIE_0_Demonstration
+[2023.11.10-11.44.26:481][486]LogWorld: UWorld::CleanupWorld for Demonstration, bSessionEnded=true, bCleanupResources=true
+[2023.11.10-11.44.26:500][486]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.10-11.44.26:509][486]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.10-11.44.26:523][486]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.10-11.44.26:603][486]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.10-11.44.26:603][486]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2023.11.10-11.44.26:604][486]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2023.11.10-11.44.26:612][486]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.10-11.44.26:651][486]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2023.11.10-11.44.26:769][487]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2023.11.10-11.44.54:743][988]BlueprintLog: New page: Compilar FrontWheel
+[2023.11.10-11.44.54:806][988]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2023.11.10-11.44.56:301][ 73]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.10-11.44.56:309][ 73]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.10-11.44.56:309][ 73]PIE: New page: Sessão de PIE : Demonstration (10 de nov de 2023 05:44:56)
+[2023.11.10-11.44.56:309][ 73]LogPlayLevel: Creating play world package: /Game/AssetsvilleTown/Maps/UEDPIE_0_Demonstration
+[2023.11.10-11.44.56:714][ 73]LogPlayLevel: PIE: StaticDuplicateObject took: (0.404259s)
+[2023.11.10-11.44.56:714][ 73]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AssetsvilleTown/Maps/Demonstration.Demonstration to /Game/AssetsvilleTown/Maps/UEDPIE_0_Demonstration.Demonstration (0.404306s)
+[2023.11.10-11.44.56:714][ 73]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.10-11.44.56:715][ 73]LogAIModule: Creating AISystem for world Demonstration
+[2023.11.10-11.44.56:716][ 73]LogPlayLevel: PIE: World Init took: (0.002258s)
+[2023.11.10-11.44.56:772][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2023.11.10-11.44.56:773][ 73]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2023.11.10-11.44.56:773][ 73]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.10-11.44.56:773][ 73]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.10-11.44.56:773][ 73]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.10-11.44.56:773][ 73]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.10-11.44.56:773][ 73]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.10-11.44.56:773][ 73]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.10-11.44.56:773][ 73]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.10-11.44.56:773][ 73]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.10-11.44.56:774][ 73]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.10-11.44.56:774][ 73]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.10-11.44.56:774][ 73]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.10-11.44.56:776][ 73]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.10-11.44.56:829][ 73]LogAudioMixer: Display: Using Audio Hardware Device Altofalantes (Realtek(R) Audio)
+[2023.11.10-11.44.56:829][ 73]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.10-11.44.56:829][ 73]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.10-11.44.56:829][ 73]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.10-11.44.56:830][ 73]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2023.11.10-11.44.56:830][ 73]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=17
+[2023.11.10-11.44.56:832][ 73]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2023.11.10-11.44.56:832][ 73]LogInit: FAudioDevice initialized.
+[2023.11.10-11.44.56:832][ 73]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2023.11.10-11.44.56:832][ 73]LogAudio: Display: Audio Device (ID: 17) registered with world 'Demonstration'.
+[2023.11.10-11.44.56:837][ 73]LogLoad: Game class is 'FunctionalTestGameMode'
+[2023.11.10-11.44.57:007][ 73]LogWorld: Bringing World /Game/AssetsvilleTown/Maps/UEDPIE_0_Demonstration.Demonstration up for play (max tick rate 0) at 2023.11.10-08.44.57
+[2023.11.10-11.44.57:009][ 73]LogWorld: Bringing up level for play took: 0.172747
+[2023.11.10-11.44.57:011][ 73]LogOnline: OSS: Created online subsystem instance for: :Context_32
+[2023.11.10-11.44.57:017][ 73]PIE: Servidor conectado
+[2023.11.10-11.44.57:018][ 73]PIE: Play in editor total start time 0,708 seconds.
+[2023.11.10-11.45.16:761][109]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.10-11.45.16:761][109]LogWorld: BeginTearingDown for /Game/AssetsvilleTown/Maps/UEDPIE_0_Demonstration
+[2023.11.10-11.45.16:764][109]LogWorld: UWorld::CleanupWorld for Demonstration, bSessionEnded=true, bCleanupResources=true
+[2023.11.10-11.45.16:785][109]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.10-11.45.16:794][109]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.10-11.45.16:809][109]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.10-11.45.16:882][109]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.10-11.45.16:884][109]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2023.11.10-11.45.16:886][109]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2023.11.10-11.45.16:942][109]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2023.11.10-11.45.17:057][110]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2023.11.10-11.45.19:913][217]LogShaderCompilers: Display: ================================================
+[2023.11.10-11.45.19:913][217]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.11.10-11.45.19:913][217]LogShaderCompilers: Display: Total job queries 549, among them cache hits 189 (34.43%)
+[2023.11.10-11.45.19:913][217]LogShaderCompilers: Display: Tracking 360 distinct input hashes that result in 257 distinct outputs (71.39%)
+[2023.11.10-11.45.19:913][217]LogShaderCompilers: Display: RAM used: 2.70 MB (0.00 GB) of 1228.80 MB (1.20 GB) budget. Usage: 0.22%
+[2023.11.10-11.45.19:913][217]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.11.10-11.45.19:913][217]LogShaderCompilers: Display: Shaders Compiled: 109
+[2023.11.10-11.45.19:913][217]LogShaderCompilers: Display: Jobs assigned 109, completed 109 (100.00%)
+[2023.11.10-11.45.19:913][217]LogShaderCompilers: Display: Average time worker was idle: 1286.25 s
+[2023.11.10-11.45.19:913][217]LogShaderCompilers: Display: Time job spent in pending queue: average 286.85 s, longest 425.30 s
+[2023.11.10-11.45.19:913][217]LogShaderCompilers: Display: Job execution time: average 31.47 s, max 403.28 s
+[2023.11.10-11.45.19:913][217]LogShaderCompilers: Display: Job life time (pending + execution): average 318.32 s, max 426.95
+[2023.11.10-11.45.19:913][217]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 432.63 s
+[2023.11.10-11.45.19:914][217]LogShaderCompilers: Display: Jobs were issued in 109 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.11.10-11.45.19:914][217]LogShaderCompilers: Display: Average processing rate: 0.25 jobs/sec
+[2023.11.10-11.45.19:914][217]LogShaderCompilers: Display: Total thread time: 2153.30 s
+[2023.11.10-11.45.19:914][217]LogShaderCompilers: Display: Total thread preprocess time: 9.06 s
+[2023.11.10-11.45.19:914][217]LogShaderCompilers: Display: Percentage time preprocessing: 0.42%
+[2023.11.10-11.45.19:914][217]LogShaderCompilers: Display: Effective parallelization: 4.98 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.11.10-11.45.19:914][217]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.11.10-11.45.19:914][217]LogShaderCompilers: Display:                                 TBasePassPSTLightMapPolicyHQ (compiled    5 times, average 81.70 sec, max 403.00 sec, min 1.29 sec)
+[2023.11.10-11.45.19:914][217]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled    6 times, average 68.28 sec, max 403.22 sec, min 1.13 sec)
+[2023.11.10-11.45.19:914][217]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled    7 times, average 58.69 sec, max 402.90 sec, min 1.16 sec)
+[2023.11.10-11.45.19:914][217]LogShaderCompilers: Display:          TBasePassVSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled    7 times, average 58.62 sec, max 403.10 sec, min 0.97 sec)
+[2023.11.10-11.45.19:914][217]LogShaderCompilers: Display:                                                  FHitProxyPS (compiled    7 times, average 58.30 sec, max 402.47 sec, min 0.68 sec)
+[2023.11.10-11.45.19:914][217]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.11.10-11.45.19:914][217]LogShaderCompilers: Display:                                                  FHitProxyVS - 19.08% of total time (compiled    7 times, average 58.69 sec, max 402.90 sec, min 1.16 sec)
+[2023.11.10-11.45.19:914][217]LogShaderCompilers: Display:          TBasePassVSTDistanceFieldShadowsAndLightMapPolicyHQ - 19.06% of total time (compiled    7 times, average 58.62 sec, max 403.10 sec, min 0.97 sec)
+[2023.11.10-11.45.19:914][217]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ - 19.02% of total time (compiled    6 times, average 68.28 sec, max 403.22 sec, min 1.13 sec)
+[2023.11.10-11.45.19:914][217]LogShaderCompilers: Display:                                 TBasePassPSTLightMapPolicyHQ - 18.97% of total time (compiled    5 times, average 81.70 sec, max 403.00 sec, min 1.29 sec)
+[2023.11.10-11.45.19:914][217]LogShaderCompilers: Display:                                                  FHitProxyPS - 18.95% of total time (compiled    7 times, average 58.30 sec, max 402.47 sec, min 0.68 sec)
+[2023.11.10-11.45.19:914][217]LogShaderCompilers: Display: ================================================
+[2023.11.10-11.54.08:736][815]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2023.11.10-11.54.08:739][815]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/AssetsvilleTown/Maps/Demonstration' took 0.067
+[2023.11.10-11.54.08:740][815]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/bps/FrontWheel] ([2] browsable assets)...
+[2023.11.10-11.54.08:740][815]OBJ SavePackage: Finished generating thumbnails for package [/Game/bps/FrontWheel]
+[2023.11.10-11.54.08:743][815]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/bps/FrontWheel_Auto1
+[2023.11.10-11.54.08:743][815]LogSavePackage: Moving '../../../../../../Users/igoni/OneDrive/Documentos/Unreal Projects/VehicleSim/Saved/FrontWheel_Auto160CE7BD8477A9109094261A2E834E1FA.tmp' to '../../../../../../Users/igoni/OneDrive/Documentos/Unreal Projects/VehicleSim/Saved/Autosaves/Game/bps/FrontWheel_Auto1.uasset'
+[2023.11.10-11.54.08:745][815]LogFileHelpers: Auto-saving content packages took 0.004
+[2023.11.10-12.00.20:340][110]BlueprintLog: New page: Compilar FrontWheel
+[2023.11.10-12.00.20:411][110]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2023.11.10-12.00.44:005][483]LogViewport: Scene viewport resized to 1531x382, mode Windowed.
+[2023.11.10-12.00.44:048][485]LogViewport: Scene viewport resized to 1531x378, mode Windowed.
+[2023.11.10-12.00.44:095][487]LogViewport: Scene viewport resized to 1531x373, mode Windowed.
+[2023.11.10-12.00.44:142][489]LogViewport: Scene viewport resized to 1531x372, mode Windowed.
+[2023.11.10-12.00.44:406][504]LogViewport: Scene viewport resized to 1531x367, mode Windowed.
+[2023.11.10-12.00.44:452][506]LogViewport: Scene viewport resized to 1531x362, mode Windowed.
+[2023.11.10-12.00.44:511][509]LogViewport: Scene viewport resized to 1531x353, mode Windowed.
+[2023.11.10-12.00.44:555][511]LogViewport: Scene viewport resized to 1531x343, mode Windowed.
+[2023.11.10-12.00.44:602][513]LogViewport: Scene viewport resized to 1531x336, mode Windowed.
+[2023.11.10-12.00.49:593][792]LogViewport: Scene viewport resized to 1531x335, mode Windowed.
+[2023.11.10-12.00.49:635][794]LogViewport: Scene viewport resized to 1531x351, mode Windowed.
+[2023.11.10-12.00.49:679][796]LogViewport: Scene viewport resized to 1531x376, mode Windowed.
+[2023.11.10-12.00.49:724][798]LogViewport: Scene viewport resized to 1531x413, mode Windowed.
+[2023.11.10-12.00.49:772][800]LogViewport: Scene viewport resized to 1531x423, mode Windowed.
+[2023.11.10-12.00.49:821][802]LogViewport: Scene viewport resized to 1531x433, mode Windowed.
+[2023.11.10-12.00.52:871][984]LogViewport: Scene viewport resized to 1531x438, mode Windowed.
+[2023.11.10-12.00.52:912][986]LogViewport: Scene viewport resized to 1531x454, mode Windowed.
+[2023.11.10-12.00.52:958][988]LogViewport: Scene viewport resized to 1531x482, mode Windowed.
+[2023.11.10-12.00.53:009][990]LogViewport: Scene viewport resized to 1531x506, mode Windowed.
+[2023.11.10-12.00.53:058][992]LogViewport: Scene viewport resized to 1531x521, mode Windowed.
+[2023.11.10-12.00.53:109][994]LogViewport: Scene viewport resized to 1531x530, mode Windowed.
+[2023.11.10-12.00.53:162][996]LogViewport: Scene viewport resized to 1531x544, mode Windowed.
+[2023.11.10-12.00.53:215][998]LogViewport: Scene viewport resized to 1531x553, mode Windowed.
+[2023.11.10-12.00.53:468][ 12]LogViewport: Scene viewport resized to 1531x554, mode Windowed.
+[2023.11.10-12.01.01:201][437]LogAssetEditorSubsystem: Opening Asset editor for PhysicalMaterial /Game/bps/Asphalt.Asphalt
+[2023.11.10-12.01.05:740][702]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.10-12.01.05:827][702]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bps/Asphalt" FILE="../../../../../../Users/igoni/OneDrive/Documentos/Unreal Projects/VehicleSim/Content/bps/Asphalt.uasset" SILENT=true
+[2023.11.10-12.01.05:828][702]LogSavePackage: Moving output files for package: /Game/bps/Asphalt
+[2023.11.10-12.01.05:829][702]LogSavePackage: Moving '../../../../../../Users/igoni/OneDrive/Documentos/Unreal Projects/VehicleSim/Saved/Asphalt34DB1FD2456891DD358377BC389CE6F9.tmp' to '../../../../../../Users/igoni/OneDrive/Documentos/Unreal Projects/VehicleSim/Content/bps/Asphalt.uasset'
+[2023.11.10-12.01.05:836][702]LogFileHelpers: InternalPromptForCheckoutAndSave took 95 ms (total: 25.8 sec)
+[2023.11.10-12.01.05:846][702]AssetCheck: New page: Asset Save: Asphalt
+[2023.11.10-12.01.05:846][702]LogContentValidation: Display: Validating /Script/PhysicsCore.PhysicalMaterial /Game/bps/Asphalt.Asphalt
+[2023.11.10-12.01.07:084][762]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.10-12.01.07:092][762]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.10-12.01.07:092][762]PIE: New page: Sessão de PIE : Demonstration (10 de nov de 2023 06:01:07)
+[2023.11.10-12.01.07:092][762]LogPlayLevel: Creating play world package: /Game/AssetsvilleTown/Maps/UEDPIE_0_Demonstration
+[2023.11.10-12.01.07:501][762]LogPlayLevel: PIE: StaticDuplicateObject took: (0.407874s)
+[2023.11.10-12.01.07:501][762]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AssetsvilleTown/Maps/Demonstration.Demonstration to /Game/AssetsvilleTown/Maps/UEDPIE_0_Demonstration.Demonstration (0.407918s)
+[2023.11.10-12.01.07:501][762]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.10-12.01.07:502][762]LogAIModule: Creating AISystem for world Demonstration
+[2023.11.10-12.01.07:503][762]LogPlayLevel: PIE: World Init took: (0.001961s)
+[2023.11.10-12.01.07:559][762]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2023.11.10-12.01.07:561][762]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2023.11.10-12.01.07:561][762]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.10-12.01.07:561][762]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.10-12.01.07:561][762]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.10-12.01.07:561][762]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.10-12.01.07:561][762]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.10-12.01.07:561][762]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.10-12.01.07:561][762]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.10-12.01.07:561][762]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.10-12.01.07:562][762]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.10-12.01.07:562][762]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.10-12.01.07:562][762]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.10-12.01.07:564][762]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.10-12.01.07:619][762]LogAudioMixer: Display: Using Audio Hardware Device Altofalantes (Realtek(R) Audio)
+[2023.11.10-12.01.07:619][762]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.10-12.01.07:619][762]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.10-12.01.07:619][762]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.10-12.01.07:620][762]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=18
+[2023.11.10-12.01.07:620][762]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=18
+[2023.11.10-12.01.07:622][762]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2023.11.10-12.01.07:622][762]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=18
+[2023.11.10-12.01.07:622][762]LogInit: FAudioDevice initialized.
+[2023.11.10-12.01.07:622][762]LogAudio: Display: Audio Device (ID: 18) registered with world 'Demonstration'.
+[2023.11.10-12.01.07:626][762]LogLoad: Game class is 'FunctionalTestGameMode'
+[2023.11.10-12.01.07:794][762]LogWorld: Bringing World /Game/AssetsvilleTown/Maps/UEDPIE_0_Demonstration.Demonstration up for play (max tick rate 60) at 2023.11.10-09.01.07
+[2023.11.10-12.01.07:796][762]LogWorld: Bringing up level for play took: 0.170170
+[2023.11.10-12.01.07:799][762]LogOnline: OSS: Created online subsystem instance for: :Context_33
+[2023.11.10-12.01.07:803][762]PIE: Servidor conectado
+[2023.11.10-12.01.07:803][762]PIE: Play in editor total start time 0,711 seconds.
+[2023.11.10-12.01.43:533][435]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.10-12.01.43:533][435]LogWorld: BeginTearingDown for /Game/AssetsvilleTown/Maps/UEDPIE_0_Demonstration
+[2023.11.10-12.01.43:536][435]LogWorld: UWorld::CleanupWorld for Demonstration, bSessionEnded=true, bCleanupResources=true
+[2023.11.10-12.01.43:554][435]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.10-12.01.43:563][435]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.10-12.01.43:580][435]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.10-12.01.43:651][435]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.10-12.01.43:651][435]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2023.11.10-12.01.43:653][435]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2023.11.10-12.01.43:660][435]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.10-12.01.43:714][435]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2023.11.10-12.01.43:802][436]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2023.11.10-12.01.52:874][901]BlueprintLog: New page: Compilar FrontWheel
+[2023.11.10-12.01.52:937][901]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2023.11.10-12.01.54:685][971]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.10-12.01.54:694][971]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.10-12.01.54:694][971]PIE: New page: Sessão de PIE : Demonstration (10 de nov de 2023 06:01:54)
+[2023.11.10-12.01.54:694][971]LogPlayLevel: Creating play world package: /Game/AssetsvilleTown/Maps/UEDPIE_0_Demonstration
+[2023.11.10-12.01.55:104][971]LogPlayLevel: PIE: StaticDuplicateObject took: (0.409094s)
+[2023.11.10-12.01.55:104][971]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AssetsvilleTown/Maps/Demonstration.Demonstration to /Game/AssetsvilleTown/Maps/UEDPIE_0_Demonstration.Demonstration (0.409143s)
+[2023.11.10-12.01.55:104][971]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.10-12.01.55:104][971]LogAIModule: Creating AISystem for world Demonstration
+[2023.11.10-12.01.55:105][971]LogPlayLevel: PIE: World Init took: (0.002090s)
+[2023.11.10-12.01.55:162][971]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2023.11.10-12.01.55:163][971]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2023.11.10-12.01.55:163][971]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.10-12.01.55:163][971]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.10-12.01.55:163][971]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.10-12.01.55:163][971]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.10-12.01.55:163][971]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.10-12.01.55:163][971]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.10-12.01.55:163][971]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.10-12.01.55:163][971]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.10-12.01.55:164][971]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.10-12.01.55:164][971]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.10-12.01.55:164][971]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.10-12.01.55:166][971]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.10-12.01.55:221][971]LogAudioMixer: Display: Using Audio Hardware Device Altofalantes (Realtek(R) Audio)
+[2023.11.10-12.01.55:221][971]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.10-12.01.55:221][971]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.10-12.01.55:221][971]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.10-12.01.55:224][971]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=19
+[2023.11.10-12.01.55:224][971]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=19
+[2023.11.10-12.01.55:226][971]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=19
+[2023.11.10-12.01.55:226][971]LogInit: FAudioDevice initialized.
+[2023.11.10-12.01.55:226][971]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=19
+[2023.11.10-12.01.55:226][971]LogAudio: Display: Audio Device (ID: 19) registered with world 'Demonstration'.
+[2023.11.10-12.01.55:229][971]LogLoad: Game class is 'FunctionalTestGameMode'
+[2023.11.10-12.01.55:392][971]LogWorld: Bringing World /Game/AssetsvilleTown/Maps/UEDPIE_0_Demonstration.Demonstration up for play (max tick rate 60) at 2023.11.10-09.01.55
+[2023.11.10-12.01.55:396][971]LogWorld: Bringing up level for play took: 0.165984
+[2023.11.10-12.01.55:398][971]LogOnline: OSS: Created online subsystem instance for: :Context_34
+[2023.11.10-12.01.55:402][971]PIE: Servidor conectado
+[2023.11.10-12.01.55:403][971]PIE: Play in editor total start time 0,709 seconds.
+[2023.11.10-12.02.02:520][175]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.10-12.02.02:520][175]LogWorld: BeginTearingDown for /Game/AssetsvilleTown/Maps/UEDPIE_0_Demonstration
+[2023.11.10-12.02.02:523][175]LogWorld: UWorld::CleanupWorld for Demonstration, bSessionEnded=true, bCleanupResources=true
+[2023.11.10-12.02.02:541][175]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.10-12.02.02:550][175]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.10-12.02.02:564][175]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.10-12.02.02:643][175]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.10-12.02.02:643][175]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2023.11.10-12.02.02:645][175]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2023.11.10-12.02.02:652][175]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.10-12.02.02:690][175]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2023.11.10-12.02.02:801][176]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2023.11.10-12.02.03:506][179]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.10-12.02.03:516][179]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.10-12.02.03:516][179]PIE: New page: Sessão de PIE : Demonstration (10 de nov de 2023 06:02:03)
+[2023.11.10-12.02.03:516][179]LogPlayLevel: Creating play world package: /Game/AssetsvilleTown/Maps/UEDPIE_0_Demonstration
+[2023.11.10-12.02.03:916][179]LogPlayLevel: PIE: StaticDuplicateObject took: (0.400366s)
+[2023.11.10-12.02.03:916][179]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AssetsvilleTown/Maps/Demonstration.Demonstration to /Game/AssetsvilleTown/Maps/UEDPIE_0_Demonstration.Demonstration (0.400406s)
+[2023.11.10-12.02.03:916][179]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.10-12.02.03:917][179]LogAIModule: Creating AISystem for world Demonstration
+[2023.11.10-12.02.03:919][179]LogPlayLevel: PIE: World Init took: (0.001920s)
+[2023.11.10-12.02.03:975][179]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2023.11.10-12.02.03:977][179]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2023.11.10-12.02.03:977][179]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.10-12.02.03:977][179]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.10-12.02.03:977][179]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.10-12.02.03:977][179]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.10-12.02.03:977][179]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.10-12.02.03:977][179]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.10-12.02.03:977][179]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.10-12.02.03:977][179]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.10-12.02.03:977][179]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.10-12.02.03:977][179]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.10-12.02.03:977][179]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.10-12.02.03:980][179]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.10-12.02.04:032][179]LogAudioMixer: Display: Using Audio Hardware Device Altofalantes (Realtek(R) Audio)
+[2023.11.10-12.02.04:032][179]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.10-12.02.04:032][179]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.10-12.02.04:032][179]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.10-12.02.04:034][179]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=20
+[2023.11.10-12.02.04:034][179]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=20
+[2023.11.10-12.02.04:036][179]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=20
+[2023.11.10-12.02.04:036][179]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=20
+[2023.11.10-12.02.04:036][179]LogInit: FAudioDevice initialized.
+[2023.11.10-12.02.04:036][179]LogAudio: Display: Audio Device (ID: 20) registered with world 'Demonstration'.
+[2023.11.10-12.02.04:040][179]LogLoad: Game class is 'FunctionalTestGameMode'
+[2023.11.10-12.02.04:202][179]LogWorld: Bringing World /Game/AssetsvilleTown/Maps/UEDPIE_0_Demonstration.Demonstration up for play (max tick rate 60) at 2023.11.10-09.02.04
+[2023.11.10-12.02.04:205][179]LogWorld: Bringing up level for play took: 0.164502
+[2023.11.10-12.02.04:207][179]LogOnline: OSS: Created online subsystem instance for: :Context_35
+[2023.11.10-12.02.04:211][179]PIE: Servidor conectado
+[2023.11.10-12.02.04:213][179]PIE: Play in editor total start time 0,697 seconds.
+[2023.11.10-12.02.50:242][349]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.10-12.02.50:242][349]LogWorld: BeginTearingDown for /Game/AssetsvilleTown/Maps/UEDPIE_0_Demonstration
+[2023.11.10-12.02.50:245][349]LogWorld: UWorld::CleanupWorld for Demonstration, bSessionEnded=true, bCleanupResources=true
+[2023.11.10-12.02.50:264][349]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.10-12.02.50:274][349]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.10-12.02.50:289][349]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.10-12.02.50:346][349]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.10-12.02.50:346][349]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2023.11.10-12.02.50:348][349]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2023.11.10-12.02.50:356][349]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.10-12.02.50:422][349]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2023.11.10-12.02.50:545][350]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2023.11.10-12.03.10:791][516]LogViewport: Scene viewport resized to 1531x555, mode Windowed.
+[2023.11.10-12.03.10:834][518]LogViewport: Scene viewport resized to 1531x532, mode Windowed.
+[2023.11.10-12.03.10:876][520]LogViewport: Scene viewport resized to 1531x515, mode Windowed.
+[2023.11.10-12.03.10:956][524]LogViewport: Scene viewport resized to 1531x510, mode Windowed.
+[2023.11.10-12.03.11:001][526]LogViewport: Scene viewport resized to 1531x504, mode Windowed.
+[2023.11.10-12.03.11:050][528]LogViewport: Scene viewport resized to 1531x487, mode Windowed.
+[2023.11.10-12.03.21:698][161]BlueprintLog: New page: Compilar FrontWheel
+[2023.11.10-12.03.21:760][161]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2023.11.10-12.03.25:898][368]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/bps/RearWheel.RearWheel
+[2023.11.10-12.03.25:898][368]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.10-12.04.47:116][212]BlueprintLog: New page: Compilar FrontWheel
+[2023.11.10-12.04.47:183][212]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2023.11.10-12.04.48:362][265]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.10-12.04.48:370][265]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.10-12.04.48:371][265]PIE: New page: Sessão de PIE : Demonstration (10 de nov de 2023 06:04:48)
+[2023.11.10-12.04.48:371][265]LogPlayLevel: Creating play world package: /Game/AssetsvilleTown/Maps/UEDPIE_0_Demonstration
+[2023.11.10-12.04.48:768][265]LogPlayLevel: PIE: StaticDuplicateObject took: (0.397525s)
+[2023.11.10-12.04.48:768][265]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AssetsvilleTown/Maps/Demonstration.Demonstration to /Game/AssetsvilleTown/Maps/UEDPIE_0_Demonstration.Demonstration (0.397581s)
+[2023.11.10-12.04.48:768][265]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.10-12.04.48:769][265]LogAIModule: Creating AISystem for world Demonstration
+[2023.11.10-12.04.48:770][265]LogPlayLevel: PIE: World Init took: (0.002017s)
+[2023.11.10-12.04.48:829][265]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2023.11.10-12.04.48:831][265]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2023.11.10-12.04.48:831][265]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.10-12.04.48:831][265]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.10-12.04.48:831][265]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.10-12.04.48:831][265]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.10-12.04.48:831][265]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.10-12.04.48:831][265]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.10-12.04.48:831][265]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.10-12.04.48:831][265]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.10-12.04.48:831][265]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.10-12.04.48:831][265]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.10-12.04.48:831][265]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.10-12.04.48:834][265]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.10-12.04.48:887][265]LogAudioMixer: Display: Using Audio Hardware Device Altofalantes (Realtek(R) Audio)
+[2023.11.10-12.04.48:887][265]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.10-12.04.48:887][265]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.10-12.04.48:887][265]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.10-12.04.48:888][265]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=21
+[2023.11.10-12.04.48:888][265]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=21
+[2023.11.10-12.04.48:890][265]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=21
+[2023.11.10-12.04.48:890][265]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=21
+[2023.11.10-12.04.48:890][265]LogInit: FAudioDevice initialized.
+[2023.11.10-12.04.48:890][265]LogAudio: Display: Audio Device (ID: 21) registered with world 'Demonstration'.
+[2023.11.10-12.04.48:895][265]LogLoad: Game class is 'FunctionalTestGameMode'
+[2023.11.10-12.04.49:080][265]LogWorld: Bringing World /Game/AssetsvilleTown/Maps/UEDPIE_0_Demonstration.Demonstration up for play (max tick rate 60) at 2023.11.10-09.04.49
+[2023.11.10-12.04.49:082][265]LogWorld: Bringing up level for play took: 0.187296
+[2023.11.10-12.04.49:084][265]LogOnline: OSS: Created online subsystem instance for: :Context_37
+[2023.11.10-12.04.49:089][265]PIE: Servidor conectado
+[2023.11.10-12.04.49:089][265]PIE: Play in editor total start time 0,72 seconds.
+[2023.11.10-12.05.02:701][831]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.10-12.05.02:701][831]LogWorld: BeginTearingDown for /Game/AssetsvilleTown/Maps/UEDPIE_0_Demonstration
+[2023.11.10-12.05.02:704][831]LogWorld: UWorld::CleanupWorld for Demonstration, bSessionEnded=true, bCleanupResources=true
+[2023.11.10-12.05.02:723][831]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.10-12.05.02:732][831]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.10-12.05.02:746][831]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.10-12.05.02:806][831]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.10-12.05.02:816][831]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2023.11.10-12.05.02:818][831]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2023.11.10-12.05.02:877][831]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2023.11.10-12.05.02:961][832]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2023.11.10-12.05.32:933][559]BlueprintLog: New page: Compilar FrontWheel
+[2023.11.10-12.05.33:000][559]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2023.11.10-12.06.15:514][ 89]LogDerivedDataCache: C:/Users/igoni/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:17.694 and deleted 0 files with total size 0 MiB. Scanned 9122 files in 9039 folders with total size 332 MiB.
+[2023.11.10-12.06.22:845][529]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.10-12.06.22:941][529]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bps/Asphalt" FILE="../../../../../../Users/igoni/OneDrive/Documentos/Unreal Projects/VehicleSim/Content/bps/Asphalt.uasset" SILENT=true
+[2023.11.10-12.06.22:942][529]LogSavePackage: Moving output files for package: /Game/bps/Asphalt
+[2023.11.10-12.06.22:944][529]LogSavePackage: Moving '../../../../../../Users/igoni/OneDrive/Documentos/Unreal Projects/VehicleSim/Saved/AsphaltEB16EC084D04B5B31E97F4B6F569E16B.tmp' to '../../../../../../Users/igoni/OneDrive/Documentos/Unreal Projects/VehicleSim/Content/bps/Asphalt.uasset'
+[2023.11.10-12.06.22:950][529]LogFileHelpers: InternalPromptForCheckoutAndSave took 105 ms (total: 25.9 sec)
+[2023.11.10-12.06.22:960][529]AssetCheck: New page: Asset Save: Asphalt
+[2023.11.10-12.06.22:961][529]LogContentValidation: Display: Validating /Script/PhysicsCore.PhysicalMaterial /Game/bps/Asphalt.Asphalt
+[2023.11.10-12.06.24:133][580]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.10-12.06.24:141][580]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.10-12.06.24:141][580]PIE: New page: Sessão de PIE : Demonstration (10 de nov de 2023 06:06:24)
+[2023.11.10-12.06.24:182][580]LogPlayLevel: Creating play world package: /Game/AssetsvilleTown/Maps/UEDPIE_0_Demonstration
+[2023.11.10-12.06.24:582][580]LogPlayLevel: PIE: StaticDuplicateObject took: (0.399621s)
+[2023.11.10-12.06.24:582][580]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AssetsvilleTown/Maps/Demonstration.Demonstration to /Game/AssetsvilleTown/Maps/UEDPIE_0_Demonstration.Demonstration (0.399677s)
+[2023.11.10-12.06.24:583][580]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.10-12.06.24:583][580]LogAIModule: Creating AISystem for world Demonstration
+[2023.11.10-12.06.24:585][580]LogPlayLevel: PIE: World Init took: (0.001860s)
+[2023.11.10-12.06.24:645][580]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2023.11.10-12.06.24:646][580]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2023.11.10-12.06.24:646][580]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.10-12.06.24:646][580]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.10-12.06.24:646][580]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.10-12.06.24:646][580]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.10-12.06.24:646][580]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.10-12.06.24:646][580]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.10-12.06.24:646][580]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.10-12.06.24:646][580]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.10-12.06.24:647][580]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.10-12.06.24:647][580]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.10-12.06.24:647][580]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.10-12.06.24:649][580]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.10-12.06.24:704][580]LogAudioMixer: Display: Using Audio Hardware Device Altofalantes (Realtek(R) Audio)
+[2023.11.10-12.06.24:704][580]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.10-12.06.24:704][580]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.10-12.06.24:704][580]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.10-12.06.24:705][580]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=22
+[2023.11.10-12.06.24:705][580]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=22
+[2023.11.10-12.06.24:707][580]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=22
+[2023.11.10-12.06.24:707][580]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=22
+[2023.11.10-12.06.24:707][580]LogInit: FAudioDevice initialized.
+[2023.11.10-12.06.24:707][580]LogAudio: Display: Audio Device (ID: 22) registered with world 'Demonstration'.
+[2023.11.10-12.06.24:711][580]LogLoad: Game class is 'FunctionalTestGameMode'
+[2023.11.10-12.06.24:887][580]LogWorld: Bringing World /Game/AssetsvilleTown/Maps/UEDPIE_0_Demonstration.Demonstration up for play (max tick rate 60) at 2023.11.10-09.06.24
+[2023.11.10-12.06.24:889][580]LogWorld: Bringing up level for play took: 0.177605
+[2023.11.10-12.06.24:891][580]LogOnline: OSS: Created online subsystem instance for: :Context_38
+[2023.11.10-12.06.24:896][580]PIE: Servidor conectado
+[2023.11.10-12.06.24:896][580]PIE: Play in editor total start time 0,756 seconds.
+[2023.11.10-12.07.44:728][833]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.10-12.07.44:728][833]LogWorld: BeginTearingDown for /Game/AssetsvilleTown/Maps/UEDPIE_0_Demonstration
+[2023.11.10-12.07.44:730][833]LogWorld: UWorld::CleanupWorld for Demonstration, bSessionEnded=true, bCleanupResources=true
+[2023.11.10-12.07.44:750][833]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.10-12.07.44:760][833]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.10-12.07.44:773][833]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.10-12.07.44:845][833]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.10-12.07.44:861][833]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2023.11.10-12.07.44:863][833]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2023.11.10-12.07.44:909][833]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2023.11.10-12.07.45:025][834]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2023.11.10-12.07.46:277][851]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2023.11.10-12.07.47:423][851]LogSlate: Window 'Salvar Conteúdo' being destroyed
+[2023.11.10-12.07.47:433][851]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.10-12.07.47:531][851]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bps/FrontWheel" FILE="../../../../../../Users/igoni/OneDrive/Documentos/Unreal Projects/VehicleSim/Content/bps/FrontWheel.uasset" SILENT=true
+[2023.11.10-12.07.47:533][851]LogSavePackage: Moving output files for package: /Game/bps/FrontWheel
+[2023.11.10-12.07.47:533][851]LogSavePackage: Moving '../../../../../../Users/igoni/OneDrive/Documentos/Unreal Projects/VehicleSim/Saved/FrontWheel4909870A4C83E622C5B77A8DF3E91E46.tmp' to '../../../../../../Users/igoni/OneDrive/Documentos/Unreal Projects/VehicleSim/Content/bps/FrontWheel.uasset'
+[2023.11.10-12.07.47:544][851]LogFileHelpers: InternalPromptForCheckoutAndSave took 111 ms (total: 26.0 sec)
+[2023.11.10-12.07.47:555][851]AssetCheck: New page: Asset Save: FrontWheel
+[2023.11.10-12.07.47:555][851]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/bps/FrontWheel.FrontWheel
